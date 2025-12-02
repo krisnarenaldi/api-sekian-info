@@ -5,8 +5,4 @@ __pycache__/
 .gitignore
 .env
 *.md
-sembako_cache.json
-cinema.json
-events_tix.json
-trending_now.json
 debug_driver.py
