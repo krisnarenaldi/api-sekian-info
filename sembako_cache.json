@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "change": 0,
+      "komoditas": "Beras Medium",
+      "today": 14500,
+      "unit": "kg",
+      "yesterday": 14500
+    },
+    {
+      "change": 0,
+      "komoditas": "Beras Premium",
+      "today": 16300,
+      "unit": "kg",
+      "yesterday": 16300
+    },
+    {
+      "change": 0,
+      "komoditas": "Gula Pasir Curah",
+      "today": 18100,
+      "unit": "kg",
+      "yesterday": 18100
+    },
+    {
+      "change": 0,
+      "komoditas": "Minyak Goreng Sawit Kemasan Premium",
+      "today": 22300,
+      "unit": "lt",
+      "yesterday": 22300
+    },
+    {
+      "change": -56,
+      "komoditas": "Minyak Goreng Sawit Curah",
+      "today": 17900,
+      "unit": "lt",
+      "yesterday": 18000
+    },
+    {
+      "change": 0,
+      "komoditas": "Minyakita",
+      "today": 16700,
+      "unit": "lt",
+      "yesterday": 16700
+    },
+    {
+      "change": -14,
+      "komoditas": "Daging Sapi Paha Belakang",
+      "today": 140200,
+      "unit": "kg",
+      "yesterday": 140400
+    },
+    {
+      "change": 25,
+      "komoditas": "Daging Ayam Ras",
+      "today": 40300,
+      "unit": "kg",
+      "yesterday": 40200
+    },
+    {
+      "change": 31,
+      "komoditas": "Telur Ayam Ras",
+      "today": 32800,
+      "unit": "kg",
+      "yesterday": 32700
+    },
+    {
+      "change": 0,
+      "komoditas": "Tepung Terigu",
+      "today": 13400,
+      "unit": "kg",
+      "yesterday": 13400
+    },
+    {
+      "change": 0,
+      "komoditas": "Kedelai Impor",
+      "today": 14800,
+      "unit": "kg",
+      "yesterday": 14800
+    },
+    {
+      "change": -51,
+      "komoditas": "Cabai Merah Keriting",
+      "today": 58700,
+      "unit": "kg",
+      "yesterday": 59000
+    },
+    {
+      "change": 1589,
+      "komoditas": "Cabai Rawit Merah",
+      "today": 59800,
+      "unit": "kg",
+      "yesterday": 51600
+    },
+    {
+      "change": 240,
+      "komoditas": "Cabai Merah Besar",
+      "today": 59800,
+      "unit": "kg",
+      "yesterday": 58400
+    },
+    {
+      "change": 364,
+      "komoditas": "Bawang Merah",
+      "today": 45500,
+      "unit": "kg",
+      "yesterday": 43900
+    },
+    {
+      "change": 53,
+      "komoditas": "Bawang Putih Honan",
+      "today": 38000,
+      "unit": "kg",
+      "yesterday": 37800
+    }
+  ],
+  "date_info": {
+    "today": "01 Dec",
+    "yesterday": "28 Nov"
+  },
+  "status": "success",
+  "total_items": 16,
+  "from_cache": false,
+  "scraped_at": "2025-12-02 09:33:15"
+}
