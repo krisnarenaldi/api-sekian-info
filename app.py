@@ -36,6 +36,29 @@ def get_driver():
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--remote-debugging-port=9222")
     chrome_options.add_argument("--disable-software-rasterizer")
+    
+    # Memory optimization flags for low-memory environments (Render free tier = 512MB)
+    chrome_options.add_argument("--disable-extensions")
+    chrome_options.add_argument("--disable-background-networking")
+    chrome_options.add_argument("--disable-background-timer-throttling")
+    chrome_options.add_argument("--disable-backgrounding-occluded-windows")
+    chrome_options.add_argument("--disable-breakpad")
+    chrome_options.add_argument("--disable-component-extensions-with-background-pages")
+    chrome_options.add_argument("--disable-features=TranslateUI,BlinkGenPropertyTrees")
+    chrome_options.add_argument("--disable-ipc-flooding-protection")
+    chrome_options.add_argument("--disable-renderer-backgrounding")
+    chrome_options.add_argument("--enable-features=NetworkService,NetworkServiceInProcess")
+    chrome_options.add_argument("--force-color-profile=srgb")
+    chrome_options.add_argument("--hide-scrollbars")
+    chrome_options.add_argument("--metrics-recording-only")
+    chrome_options.add_argument("--mute-audio")
+    chrome_options.add_argument("--no-first-run")
+    chrome_options.add_argument("--disable-setuid-sandbox")
+    chrome_options.add_argument("--single-process")  # Run in single process mode
+    chrome_options.add_argument("--disable-logging")
+    chrome_options.add_argument("--log-level=3")
+    chrome_options.add_argument("--window-size=1280,720")  # Smaller window
+    
     chrome_options.add_argument(
         "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     )
