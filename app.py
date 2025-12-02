@@ -54,7 +54,7 @@ def get_driver():
     chrome_options.add_argument("--mute-audio")
     chrome_options.add_argument("--no-first-run")
     chrome_options.add_argument("--disable-setuid-sandbox")
-    chrome_options.add_argument("--single-process")  # Run in single process mode
+    # Removed --single-process as it causes crashes with newer Chrome versions
     chrome_options.add_argument("--disable-logging")
     chrome_options.add_argument("--log-level=3")
     chrome_options.add_argument("--window-size=1280,720")  # Smaller window
