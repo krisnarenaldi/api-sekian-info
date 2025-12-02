@@ -440,9 +440,16 @@ def get_trend():
 
     else:
         print("ambil trend langsung")
+        serpapi_key = os.environ.get("SERPAPI_KEY")
+        if not serpapi_key:
+            return jsonify({
+                "status": "error",
+                "message": "SERPAPI_KEY environment variable not set"
+            }), 500
+        
         search = GoogleSearch(
             {
-                "api_key": "86ebef3a75dd1162ff39233887e146a18a440290efb639561fa2f562946bd167",
+                "api_key": serpapi_key,
                 "engine": "google_trends_trending_now",
                 "hl": "id",
                 "geo": "ID",
