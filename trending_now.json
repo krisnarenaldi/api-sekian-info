@@ -1,0 +1,3814 @@
+{
+    "search_metadata": {
+        "id": "692d1e4ead9ecf37b5a2a176",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/18322386661d78bf/692d1e4ead9ecf37b5a2a176.json",
+        "created_at": "2025-12-01 04:49:18 UTC",
+        "processed_at": "2025-12-01 04:49:18 UTC",
+        "google_trends_trending_now_url": "https://trends.google.com/_/TrendsUi/data/batchexecute?rpcids=i0OFE&source-path=%2Ftrending&hl=id",
+        "raw_html_file": "https://serpapi.com/searches/18322386661d78bf/692d1e4ead9ecf37b5a2a176.html",
+        "prettify_html_file": "https://serpapi.com/searches/18322386661d78bf/692d1e4ead9ecf37b5a2a176.prettify",
+        "total_time_taken": 5.83
+    },
+    "search_parameters": {
+        "engine": "google_trends_trending_now",
+        "hl": "id",
+        "geo": "ID"
+    },
+    "trending_searches": [
+        {
+            "query": "crystal palace vs man utd",
+            "start_timestamp": 1764497400,
+            "active": true,
+            "search_volume": 200000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "crystal palace vs man united",
+                "mu",
+                "manchester united",
+                "klasemen crystal palace vs manchester united f.c.",
+                "mu vs",
+                "manchester united vs crystal palace",
+                "manchester united f.c.",
+                "man utd",
+                "crystal palace",
+                "tempat menonton crystal palace vs manchester united f.c.",
+                "mason mount",
+                "joshua zirkzee",
+                "man united",
+                "crystal palace vs manchester united f.c.",
+                "man utd vs crystal palace",
+                "mu vs crystal",
+                "manchester united vs",
+                "susunan pemain crystal palace vs manchester united f.c.",
+                "crystal palace f.c.",
+                "manchester united f.c",
+                "mu vs palace",
+                "hasil mu",
+                "crystal palace vs manchester united f.c",
+                "eddie nketiah",
+                "leny yoro",
+                "liverpool vs crystal palace",
+                "manchester",
+                "bruno fernandes",
+                "crystal palace vs mu",
+                "manchester united fc",
+                "mu crystal palace",
+                "mu vs cristal palace",
+                "man united vs crystal palace",
+                "luke shaw"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=crystal+palace+vs+man+utd&tz=420",
+            "news_page_token": "cHPOrnica1xTlFpYmlpcEp-SWJJ4h0F58nkGBgZGxuZf0otS8xZ5ukD52VfyUfj79oqi8JWqzqLKz7-DwueNcIfyz_2zslaAsf9endiLom42x34U_oH325H5DGo_JFDkl135iCL_8PMCFHmh7zko_IOsa1DUv1fZgSJ_LPcairynNar5yUtR-IxtO1tQ-Ouv3kbhO6KZ949VDOb3_wd2s6GoDfqUi8I_vLgChb-HrQOFf3JzDYrZr8_4osiD4jAzBcE_an0KRX7nvIUofAWuiSjmFbOghtWu09A4BAD6HtD0",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=cHPOrnica1xTlFpYmlpcEp-SWJJ4h0F58nkGBgZGxuZf0otS8xZ5ukD52VfyUfj79oqi8JWqzqLKz7-DwueNcIfyz_2zslaAsf9endiLom42x34U_oH325H5DGo_JFDkl135iCL_8PMCFHmh7zko_IOsa1DUv1fZgSJ_LPcairynNar5yUtR-IxtO1tQ-Ouv3kbhO6KZ949VDOb3_wd2s6GoDfqUi8I_vLgChb-HrQOFf3JzDYrZr8_4osiD4jAzBcE_an0KRX7nvIUofAWuiSjmFbOghtWu09A4BAD6HtD0"
+        },
+        {
+            "query": "west ham vs liverpool",
+            "start_timestamp": 1764488400,
+            "active": true,
+            "search_volume": 200000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "liverpool vs west ham",
+                "liverpool",
+                "liverpool f.c.",
+                "klasemen west ham vs liverpool",
+                "liverpool vs",
+                "alexander isak",
+                "west ham",
+                "tempat menonton west ham vs liverpool",
+                "liverpool fc",
+                "liverpol"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=west+ham+vs+liverpool&tz=420",
+            "news_page_token": "YXjwB3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGxhWbShal5i3ydIHwGf73fULmM64-uB6Fv2NVAAr_oFEQKv_PHxR-8y9pFD5vhDsKf0_7eRT71X5IoMjvm38H1TyhmVD-uX8J53Ng7L9XJ_bCxQUy5qPoAfkxMwXIBwCahWYC",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=YXjwB3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGxhWbShal5i3ydIHwGf73fULmM64-uB6Fv2NVAAr_oFEQKv_PHxR-8y9pFD5vhDsKf0_7eRT71X5IoMjvm38H1TyhmVD-uX8J53Ng7L9XJ_bCxQUy5qPoAfkxMwXIBwCahWYC"
+        },
+        {
+            "query": "borneo fc vs bali united",
+            "start_timestamp": 1764487800,
+            "active": true,
+            "search_volume": 100000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "borneo vs bali united",
+                "borneo",
+                "borneo fc",
+                "borneo vs bali",
+                "bali united",
+                "bali vs borneo",
+                "klasemen bri liga 1",
+                "klasemen borneo fc vs bali united",
+                "klasemen super league",
+                "bri liga",
+                "bri liga 1",
+                "bali united vs borneo fc",
+                "borneo vs",
+                "klasemen sementara liga 1",
+                "skor borneo",
+                "bali vs borneo skor",
+                "persib vs borneo",
+                "skor borneo vs bali",
+                "tempat menonton borneo fc vs bali united",
+                "hasil borneo vs bali",
+                "hasil liga 1 hari ini",
+                "liga super",
+                "liga 1 indonesia",
+                "klasemen borneo fc",
+                "hasil borneo"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=borneo+fc+vs+bali+united&tz=420",
+            "news_page_token": "uQR7qnica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGxrn7ty1KzVvk6QLl81dro_BPvDqOwtcJP4_CB-nPTEHw9z9MxlCPIt9fjsLflleDon66BSr_2EkmFP7KX0-R-QzrjtxGkd_hn4DCn7P9Kwo_1Go3Ct9Lex4KP_1rM4Z_kPhg-5D5TwwlUfhqPyQg5gEAGZuFUg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=uQR7qnica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGxrn7ty1KzVvk6QLl81dro_BPvDqOwtcJP4_CB-nPTEHw9z9MxlCPIt9fjsLflleDon66BSr_2EkmFP7KX0-R-QzrjtxGkd_hn4DCn7P9Kwo_1Go3Ct9Lex4KP_1rM4Z_kPhg-5D5TwwlUfhqPyQg5gEAGZuFUg"
+        },
+        {
+            "query": "pisa vs inter",
+            "start_timestamp": 1764508200,
+            "active": true,
+            "search_volume": 50000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "inter milan",
+                "inter vs pisa"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=pisa+vs+inter&tz=420",
+            "news_page_token": "HcoTBHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsYeldeLUvMWebpA-Tv8E1D4m45xI_MZvhwSQ5E_WK-EwrfSrELh5-nNROHzRrijmBe53wrCBwDWZDbS",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=HcoTBHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsYeldeLUvMWebpA-Tv8E1D4m45xI_MZvhwSQ5E_WK-EwrfSrELh5-nNROHzRrijmBe53wrCBwDWZDbS"
+        },
+        {
+            "query": "roma vs napoli",
+            "start_timestamp": 1764518400,
+            "active": true,
+            "search_volume": 20000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "as roma",
+                "napoli",
+                "roma"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=roma+vs+napoli&tz=420",
+            "news_page_token": "9dHa7Xica1xTlFpYmlpcEp-SWJI4b_J5BgYGRsajprMWZZYs8nSB8o_8DULhF3YcQeELyi9E4dvJlyDzGRxdOKH8c__W5LehqD1qOh-FP1k6DIW_IeM8Cv-wyVIUfomDL4pdJkv3ocg3fm6C8AFwL1Sm",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=9dHa7Xica1xTlFpYmlpcEp-SWJI4b_J5BgYGRsajprMWZZYs8nSB8o_8DULhF3YcQeELyi9E4dvJlyDzGRxdOKH8c__W5LehqD1qOh-FP1k6DIW_IeM8Cv-wyVIUfomDL4pdJkv3ocg3fm6C8AFwL1Sm"
+        },
+        {
+            "query": "le havre vs losc",
+            "start_timestamp": 1764517200,
+            "active": true,
+            "search_volume": 20000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=le+havre+vs+losc&tz=420",
+            "news_page_token": "TI8ohnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkYl8fhFaUWLPF0Ax_ILZg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=TI8ohnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkYl8fhFaUWLPF0Ax_ILZg"
+        },
+        {
+            "query": "sevilla vs betis",
+            "start_timestamp": 1764512400,
+            "active": true,
+            "search_volume": 20000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "sevilla"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=sevilla+vs+betis&tz=420",
+            "news_page_token": "IJTKuXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoYWxseLUosXebpA-IxKlp9Q-Id9WCB8AP1aFrE",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=IJTKuXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoYWxseLUosXebpA-IxKlp9Q-Id9WCB8AP1aFrE"
+        },
+        {
+            "query": "nottingham forest vs brighton",
+            "start_timestamp": 1764504000,
+            "active": true,
+            "search_volume": 20000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "nottm forest vs brighton",
+                "brighton",
+                "nottingham forest",
+                "nottingham",
+                "maxim de cuyper"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=nottingham+forest+vs+brighton&tz=420",
+            "news_page_token": "TMJI6nica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGxrAz5xal5i3ydIHylTq7kfkM71V2oMg3B8xC4Z_oPITCl_ysAOWf-38xaTmKWR1SX1H4vuULUPQeXN-Dwp--JgyFP5tjPwr_gMoSmF3_1B-awdlM7ZdQ7MnZMwmF336bE8WcWFspFH5QfhXcLFcXdTg7ZfkqCBsAoed_rw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=TMJI6nica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGxrAz5xal5i3ydIHylTq7kfkM71V2oMg3B8xC4Z_oPITCl_ysAOWf-38xaTmKWR1SX1H4vuULUPQeXN-Dwp--JgyFP5tjPwr_gMoSmF3_1B-awdlM7ZdQ7MnZMwmF336bE8WcWFspFH5QfhXcLFcXdTg7ZfkqCBsAoed_rw"
+        },
+        {
+            "query": "girona vs real madrid",
+            "start_timestamp": 1764508200,
+            "active": true,
+            "search_volume": 50000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "klasemen girona vs real madrid",
+                "real madrid c.f.",
+                "klasemen la liga",
+                "klasemen liga spanyol",
+                "laliga",
+                "skor madrid",
+                "klasemen laliga",
+                "klasemen real madrid",
+                "real madrid cf",
+                "skor madrid vs girona",
+                "jadwal real madrid",
+                "klasemen",
+                "skor real madrid",
+                "barca vs girona",
+                "pertandingan real madrid",
+                "hasil madrid",
+                "jadwal madrid",
+                "susunan pemain girona vs real madrid",
+                "hasil madrid vs girona",
+                "hasil real madrid",
+                "girona fc",
+                "pertandingan la liga",
+                "la liga",
+                "skor real madrid vs girona",
+                "hasil la liga",
+                "peringkat madrid",
+                "kylian mbapp\u00e9",
+                "laliga klasemen",
+                "liga spanyol"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=girona+vs+real+madrid&tz=420",
+            "news_page_token": "MTHemHica1xTlFpYmlpcEp-SWJJ4h0Ft8nkGBgZGRj9O7UWpeYs8XaB8A85nKPytYrUo_P1JPSj8pV-zUPgn_XJR-LOL7VH4IPsyUxD8xsuaKHyQ-ch8kHuQ-bOL81D4IPch80HuQeav-TAbhZ95-ByKe2b0hKPwOSueo_BF57eh8HeWnULhy3i9R-YznP6yEEV-0iJ3FD7IPajhk4fCP76uF8W8f6xiKPLH-mxR-EdqJ6HwM418Ufi8ESj2M6j9kECRT96NGv9WmlUofJ3w8yj86MY_KPwd_gkofMsKMwgfAJLM1z4",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=MTHemHica1xTlFpYmlpcEp-SWJJ4h0Ft8nkGBgZGRj9O7UWpeYs8XaB8A85nKPytYrUo_P1JPSj8pV-zUPgn_XJR-LOL7VH4IPsyUxD8xsuaKHyQ-ch8kHuQ-bOL81D4IPch80HuQeav-TAbhZ95-ByKe2b0hKPwOSueo_BF57eh8HeWnULhy3i9R-YznP6yEEV-0iJ3FD7IPajhk4fCP76uF8W8f6xiKPLH-mxR-EdqJ6HwM418Ufi8ESj2M6j9kECRT96NGv9WmlUofJ3w8yj86MY_KPwd_gkofMsKMwgfAJLM1z4"
+        },
+        {
+            "query": "real sociedad vs villarreal",
+            "start_timestamp": 1764504600,
+            "active": true,
+            "search_volume": 20000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "real sociedad"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=real+sociedad+vs+villarreal&tz=420",
+            "news_page_token": "6Qm-I3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsaYipmLUvMWebpA-X6c2ij82cX2KHwDzmcofCMVPwgfAE9MH-w",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=6Qm-I3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsaYipmLUvMWebpA-X6c2ij82cX2KHwDzmcofCMVPwgfAE9MH-w"
+        },
+        {
+            "query": "aston villa vs wolves",
+            "start_timestamp": 1764502200,
+            "active": true,
+            "search_volume": 20000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "aston villa f.c."
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=aston+villa+vs+wolves&tz=420",
+            "news_page_token": "Kawalnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsbwPI1FqXmLPF2g_NWfj6Dwm40jkPkMvyODUOQPqCxB4ac2iqLw97AZQ_nn_sfs1oGwAdQIMsE",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Kawalnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsbwPI1FqXmLPF2g_NWfj6Dwm40jkPkMvyODUOQPqCxB4ac2iqLw97AZQ_nn_sfs1oGwAdQIMsE"
+        },
+        {
+            "query": "atalanta vs fiorentina",
+            "start_timestamp": 1764514800,
+            "active": true,
+            "search_volume": 10000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "atalanta vs"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=atalanta+vs+fiorentina&tz=420",
+            "news_page_token": "fj2J8nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoZrEucWpeYt8nSB8Bk3XtkK4QMAyxMSxw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=fj2J8nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoZrEucWpeYt8nSB8Bk3XtkK4QMAyxMSxw"
+        },
+        {
+            "query": "klasemen chelsea vs arsenal",
+            "start_timestamp": 1764523800,
+            "active": true,
+            "search_volume": 100000,
+            "increase_percentage": 900,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "chelsea",
+                "arsenal",
+                "klasemen liga inggris",
+                "chelsea arsenal",
+                "klasemen premier league",
+                "tempat menonton chelsea vs arsenal",
+                "liga inggris klasemen",
+                "skor chelsea vs arsenal",
+                "jadwal chelsea",
+                "arsenal vs",
+                "mois\u00e9s caicedo",
+                "arsenal chelsea",
+                "chelsea f.c.",
+                "chelsea vs",
+                "jadwal arsenal",
+                "hasil chelsea vs arsenal",
+                "cole palmer",
+                "jadwal manchester united",
+                "jadwal liverpool",
+                "premier",
+                "chelsea fc",
+                "premier league",
+                "susunan pemain chelsea vs arsenal",
+                "chelsea vs arsenal live",
+                "klasemen liga",
+                "jadwal chelsea vs arsenal",
+                "hincapie",
+                "live streaming chelsea vs arsenal",
+                "statistik chelsea vs arsenal",
+                "arsenal fc",
+                "live chelsea vs arsenal",
+                "declan rice",
+                "sctv",
+                "bukayo saka",
+                "skor arsenal vs chelsea",
+                "liga",
+                "jadwal mu",
+                "jadwal liga inggris",
+                "jadwal premier league",
+                "liga utama inggris",
+                "prediksi chelsea vs arsenal",
+                "streaming bola",
+                "klasemen chelsea",
+                "chelsea vs arsenal tayang di tv mana"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=klasemen+chelsea+vs+arsenal&tz=420",
+            "news_page_token": "lhA14Xica1xTlFpYmlpcEp-SWJJ4h8F18nkGBgZGRt4I90WpeYs8XZD4mSkIfvMvaRT-ift9yHwGtR8SKPIrNpWg8A_-5UHhH3j_Bdk-Bt_yBSj2g-xD5u9vbkLhHzGwRuGveL4DhQ9yH7L5IPchyx-0vYfCPyS0DYXvs7IMhX9ycw0K39JOHYWvcukRCn-i_j8Ufm0KqvsXP7FDcd_m_3wo8vOZd6LIP756GoX_v-8TivpV_QUo_FM6RSj8nPVfUMNXZSEKP-_CSRTz74VORjWP2xiFn642EzW8J2ih8DmiOFH4y2-lo_AzjXxR-IxFe1H4pSJWUP65f5qFqHEDSlvIbn2vghr3ybu1UfgpUUtQ-Adu96LwZxfnoaRNkH5k_myO_ahpwS8VhW_A-QzDPGS-Hyeqe-qdBVHD7tVx1LRVYYbC3-GfgMK30qxC8f8ryRQUeZ3w8yjyE6MbUeS3itWiyKs6o5jHOHc_anj3qLxGzYsWZajhX5sM4QMAavGF_w",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=lhA14Xica1xTlFpYmlpcEp-SWJJ4h8F18nkGBgZGRt4I90WpeYs8XZD4mSkIfvMvaRT-ift9yHwGtR8SKPIrNpWg8A_-5UHhH3j_Bdk-Bt_yBSj2g-xD5u9vbkLhHzGwRuGveL4DhQ9yH7L5IPchyx-0vYfCPyS0DYXvs7IMhX9ycw0K39JOHYWvcukRCn-i_j8Ufm0KqvsXP7FDcd_m_3wo8vOZd6LIP756GoX_v-8TivpV_QUo_FM6RSj8nPVfUMNXZSEKP-_CSRTz74VORjWP2xiFn642EzW8J2ih8DmiOFH4y2-lo_AzjXxR-IxFe1H4pSJWUP65f5qFqHEDSlvIbn2vghr3ybu1UfgpUUtQ-Adu96LwZxfnoaRNkH5k_myO_ahpwS8VhW_A-QzDPGS-Hyeqe-qdBVHD7tVx1LRVYYbC3-GfgMK30qxC8f8ryRQUeZ3w8yjyE6MbUeS3itWiyKs6o5jHOHc_anj3qLxGzYsWZajhX5sM4QMAavGF_w"
+        },
+        {
+            "query": "ajax vs groningen",
+            "start_timestamp": 1764523800,
+            "active": true,
+            "search_volume": 10000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "ajax vs",
+                "ajax fc"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=ajax+vs+groningen&tz=420",
+            "news_page_token": "cM6cdHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsbMI7MWpeYt8nSB8Bl-zDdD5jOuCHiHwleza4Xyz_0XPq2AIneM2QLCBwCzUyhT",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=cM6cdHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsbMI7MWpeYt8nSB8Bl-zDdD5jOuCHiHwleza4Xyz_0XPq2AIneM2QLCBwCzUyhT"
+        },
+        {
+            "query": "go ahead eagles vs utrecht",
+            "start_timestamp": 1764506400,
+            "active": true,
+            "search_volume": 10000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=go+ahead+eagles+vs+utrecht&tz=420",
+            "news_page_token": "rXyvenica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsY9x2UXpeYt8nSB8o1U_FD4rl2MKPzMw2kQPgB_4BuK",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=rXyvenica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsY9x2UXpeYt8nSB8o1U_FD4rl2MKPzMw2kQPgB_4BuK"
+        },
+        {
+            "query": "harga bbm pertamina",
+            "start_timestamp": 1764512400,
+            "active": true,
+            "search_volume": 10000,
+            "increase_percentage": 400,
+            "categories": [
+                {
+                    "id": 3,
+                    "name": "Business and Finance"
+                },
+                {
+                    "id": 1,
+                    "name": "Autos and Vehicles"
+                }
+            ],
+            "trend_breakdown": [
+                "harga pertamax",
+                "desember",
+                "harga pertamax hari ini",
+                "desember 2025",
+                "1 desember",
+                "tanggal 1 desember 2025 ada apa",
+                "harga bbm"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=harga+bbm+pertamina&tz=420",
+            "news_page_token": "_Ps9KXica1xTlFpYmlpcEp-SWJJ4h0F28nkGBgZGxsPunxel5i3ydEHiZ6bA-Qwd-f-h_HP_j8hoIssxnphggqJ26rkWFPlT8h0o8hMOcaDIt85KROGzHq5D4dsWG6LwHaouoZjHv-wGCn_Kw1oU9falWSj8jWyXUfhiTypQ-drMKHzBLbdR-Ha5_ij27Z24FIX_0bIfRb1l-XcUfsjMPhT-2kMlKPrfCiejyEe0PkOzvwbV_AozCB8AzEinIw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=_Ps9KXica1xTlFpYmlpcEp-SWJJ4h0F28nkGBgZGxsPunxel5i3ydEHiZ6bA-Qwd-f-h_HP_j8hoIssxnphggqJ26rkWFPlT8h0o8hMOcaDIt85KROGzHq5D4dsWG6LwHaouoZjHv-wGCn_Kw1oU9falWSj8jWyXUfhiTypQ-drMKHzBLbdR-Ha5_ij27Z24FIX_0bIfRb1l-XcUfsjMPhT-2kMlKPrfCiejyEe0PkOzvwbV_AozCB8AzEinIw"
+        },
+        {
+            "query": "celta vs espanyol",
+            "start_timestamp": 1764520800,
+            "active": true,
+            "search_volume": 5000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "celta vigo",
+                "espanyol"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=celta+vs+espanyol&tz=420",
+            "news_page_token": "W3YGxnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsY1H2YvSs1b5OkC4TOsPvkUhX9N4hSUf-5fQu9NGPt_Z-dBCBsATGAmww",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=W3YGxnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsY1H2YvSs1b5OkC4TOsPvkUhX9N4hSUf-5fQu9NGPt_Z-dBCBsATGAmww"
+        },
+        {
+            "query": "lakers vs pelicans",
+            "start_timestamp": 1764555600,
+            "active": true,
+            "search_volume": 2000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=lakers+vs+pelicans&tz=420",
+            "news_page_token": "kRTgk3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsbNav8XpeYt8nSB8k-JXkDlW8qg8Lc9kYXwAb6THUE",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=kRTgk3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsbNav8XpeYt8nSB8k-JXkDlW8qg8Lc9kYXwAb6THUE"
+        },
+        {
+            "query": "iqoo 15",
+            "start_timestamp": 1764492600,
+            "active": true,
+            "search_volume": 2000,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 18,
+                    "name": "Technology"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=iqoo+15&tz=420",
+            "news_page_token": "-Ze2AHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRobn5ycuSs1b5OkCANXeDQ8",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=-Ze2AHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRobn5ycuSs1b5OkCANXeDQ8"
+        },
+        {
+            "query": "lyon vs nantes",
+            "start_timestamp": 1764520800,
+            "active": true,
+            "search_volume": 5000,
+            "increase_percentage": 700,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "lyon",
+                "olympique lyonnais",
+                "lyon fc",
+                "nantes"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=lyon+vs+nantes&tz=420",
+            "news_page_token": "IVRI4Xica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGhvNOQYvSihZ5ukD4jIeWNaLwDy9lgvLP_V8-3RVZjuG2pAOK2iOrm1Hk_Y7Ph-v1FLyLovagWj4Kv6BrF6p8uzmq2ZyHUOXrVqHYNfevEsyuvz8EhFDkpA39UPTOzmGE8AFElWeq",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=IVRI4Xica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGhvNOQYvSihZ5ukD4jIeWNaLwDy9lgvLP_V8-3RVZjuG2pAOK2iOrm1Hk_Y7Ph-v1FLyLovagWj4Kv6BrF6p8uzmq2ZyHUOXrVqHYNfevEsyuvz8EhFDkpA39UPTOzmGE8AFElWeq"
+        },
+        {
+            "query": "sporting cp vs estrela amadora",
+            "start_timestamp": 1764523200,
+            "active": true,
+            "search_volume": 5000,
+            "increase_percentage": 800,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=sporting+cp+vs+estrela+amadora&tz=420",
+            "news_page_token": "2xFA7Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbMI-GLUvMWebpA-Vv7eCF8AL9TEaY",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2xFA7Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbMI-GLUvMWebpA-Vv7eCF8AL9TEaY"
+        },
+        {
+            "query": "cuti bersama desember 2025",
+            "start_timestamp": 1764550200,
+            "active": true,
+            "search_volume": 5000,
+            "increase_percentage": 300,
+            "categories": [
+                {
+                    "id": 8,
+                    "name": "Hobbies and Leisure"
+                }
+            ],
+            "trend_breakdown": [
+                "kalender desember 2025",
+                "tanggal merah desember 2025",
+                "libur sekolah desember 2025"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=cuti+bersama+desember+2025&tz=420",
+            "news_page_token": "L549QXica1xTlFpYmlpcEp-SWJI4dfK5_0dkNBdlpizydJl8noGBgZHho2U_Mp-Rv1obRX7Kw1oU-fBF1hA-AJ0iImY",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=L549QXica1xTlFpYmlpcEp-SWJI4dfK5_0dkNBdlpizydJl8noGBgZHho2U_Mp-Rv1obRX7Kw1oU-fBF1hA-AJ0iImY"
+        },
+        {
+            "query": "1 desember memperingati hari",
+            "start_timestamp": 1764502800,
+            "active": true,
+            "search_volume": 5000,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 7,
+                    "name": "Health"
+                }
+            ],
+            "trend_breakdown": [
+                "hari aids sedunia 2025",
+                "1 desember memperingati hari apa",
+                "tanggal 1 desember hari apa"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=1+desember+memperingati+hari&tz=420",
+            "news_page_token": "zzP51nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoa9E5cuSs1b5OmCxM9MQfA78v8j8xlZD9eh8E8UhqPwj39oRNFv498D4QMAFv0u2A",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=zzP51nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoa9E5cuSs1b5OmCxM9MQfA78v8j8xlZD9eh8E8UhqPwj39oRNFv498D4QMAFv0u2A"
+        },
+        {
+            "query": "daftarin kemkes go id",
+            "start_timestamp": 1764552600,
+            "active": true,
+            "search_volume": 1000,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "trend_breakdown": [
+                "daftarin"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=daftarin+kemkes+go+id&tz=420",
+            "news_page_token": "6XOeMnica1xTlFpYmlpcEp-SWJI4cfK5_9826S5KzVvk6QIAvBUNmg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=6XOeMnica1xTlFpYmlpcEp-SWJI4cfK5_9826S5KzVvk6QIAvBUNmg"
+        },
+        {
+            "query": "december",
+            "start_timestamp": 1764513600,
+            "active": true,
+            "search_volume": 2000,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 11,
+                    "name": "Other"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=december&tz=420",
+            "news_page_token": "e3_stHica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZGhthVhxal5i0KDYbwGZe9vYbCX-JVjMLfo7MNhb_xwUQo_9z_L5f3ocgdOy-Narb1HxS-rcsWFH5rZREKf9PvJhT-tvlfUPhJrveQ-QwC84JR5E9qnUKRv_JwLYp8yhYZFL7LOV8Uftn8ZSj6ly-YgMKfELQBRf1C7aso_Ojt2yF8ACLmj4c",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=e3_stHica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZGhthVhxal5i0KDYbwGZe9vYbCX-JVjMLfo7MNhb_xwUQo_9z_L5f3ocgdOy-Narb1HxS-rcsWFH5rZREKf9PvJhT-tvlfUPhJrveQ-QwC84JR5E9qnUKRv_JwLYp8yhYZFL7LOV8Uftn8ZSj6ly-YgMKfELQBRf1C7aso_Ojt2yF8ACLmj4c"
+        },
+        {
+            "query": "real madrid",
+            "start_timestamp": 1764534600,
+            "end_timestamp": 1764546600,
+            "active": false,
+            "search_volume": 20000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "madrid",
+                "girona",
+                "madrid vs",
+                "real madrid vs",
+                "real vs girona"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=real+madrid&tz=420",
+            "news_page_token": "jlviN3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGRoFYnUWpxYs8XaD8FaKPUPgiwnoofImOVch8hv59vCj8M_yyKPzm_nwU_qz3G6D8c_9Dz2xHMbu06QwKv_wlBwp_XZg-Cj9u4VyYWf_uSE2Gs2WuHEBRd1TcAcIHAEm6YOQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=jlviN3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGRoFYnUWpxYs8XaD8FaKPUPgiwnoofImOVch8hv59vCj8M_yyKPzm_nwU_qz3G6D8c_9Dz2xHMbu06QwKv_wlBwp_XZg-Cj9u4VyYWf_uSE2Gs2WuHEBRd1TcAcIHAEm6YOQ"
+        },
+        {
+            "query": "bank negara indonesia",
+            "start_timestamp": 1764531600,
+            "active": true,
+            "search_volume": 1000,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 3,
+                    "name": "Business and Finance"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=bank+negara+indonesia&tz=420",
+            "news_page_token": "GKxCO3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsb2PdmLUvMWebpA-Ay7H51E5jOaPq9GkS-eFosiH5hyAIW_1vk4ivr5NXtR5KM590P4ACSwND0",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=GKxCO3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsb2PdmLUvMWebpA-Ay7H51E5jOaPq9GkS-eFosiH5hyAIW_1vk4ivr5NXtR5KM590P4ACSwND0"
+        },
+        {
+            "query": "hut korpri 2025",
+            "start_timestamp": 1764544200,
+            "active": true,
+            "search_volume": 5000,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "trend_breakdown": [
+                "hari korpri",
+                "korpri adalah",
+                "hut korpri",
+                "hari korpri 2025 tanggal berapa",
+                "hari korpri kapan",
+                "hari korpri 2025"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=hut+korpri+2025&tz=420",
+            "news_page_token": "yy0urHica1xTlFpYmlpcEp-SWJI4ffK5_-feOy7KTFnk6QJlp-aB2OcZGBgYGW6et0fmM07MLUaRT2C-iSJ_UkkDhe9rcg1iNgBnpy_j",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=yy0urHica1xTlFpYmlpcEp-SWJI4ffK5_-feOy7KTFnk6QJlp-aB2OcZGBgYGW6et0fmM07MLUaRT2C-iSJ_UkkDhe9rcg1iNgBnpy_j"
+        },
+        {
+            "query": "persib",
+            "start_timestamp": 1764506400,
+            "end_timestamp": 1764514800,
+            "active": false,
+            "search_volume": 100000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "madura united vs persib",
+                "persib bandung",
+                "madura vs persib",
+                "klasemen madura united vs persib bandung",
+                "klasemen persib bandung",
+                "jadwal persib",
+                "tempat menonton madura united vs persib bandung",
+                "persib bandung vs madura united",
+                "klasemen persib",
+                "madura united",
+                "persib vs",
+                "skor persib",
+                "skor persib vs madura",
+                "persib vs madura united",
+                "peringkat persib",
+                "persib hari ini",
+                "pertandingan persib bandung",
+                "jadwal persib liga 1",
+                "balotelli",
+                "liga 1 klasemen",
+                "super league",
+                "live persib",
+                "live persib hari ini",
+                "live streaming indosiar",
+                "susunan pemain madura united vs persib bandung",
+                "pertandingan persib",
+                "liga bri",
+                "live streaming persib",
+                "jadwal persib hari ini",
+                "hasil persib",
+                "bri super league",
+                "persib madura",
+                "balotelli madura united",
+                "persija vs madura",
+                "live persib vs madura",
+                "persib klasemen",
+                "persib vs madura hari ini",
+                "persib live",
+                "super league indonesia",
+                "persib vs persija",
+                "pertandingan liga 1",
+                "persib bandung klasemen",
+                "jadwal super league",
+                "kapan persib main",
+                "streaming persib",
+                "streaming indosiar",
+                "tom haye"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=persib&tz=420",
+            "news_page_token": "JdwdAHica1xTlFpYmlpcEp-SWJJ4h0Fr8nkGBgZGRp3w84tS8xZ5uiDxM1MQ_BOvjqPw5-7fhsFH1g9Sj8znr9ZG5jOoOlehyB87yYQiv-7IbRT5bXk1KPwZhxlQ-HO2f0XhN939hGE_knsZpB-g-A9sH7J_dvyKRdG_9GsWivtu7TaD8s_931UwE0Wtl_Y8FLUgu9DdhmwXyG_IfFBYIPPzX3Gj6J-84ySK_Cn5QyjyID6y_L6DASjy-x8mo8jzRrij8JN3a6Oq7y9H8c8TQ0kU-VCr3RjmI_NB5iPzo5tcUcx7sz8cxX5QWIP5ADZR91g",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=JdwdAHica1xTlFpYmlpcEp-SWJJ4h0Fr8nkGBgZGRp3w84tS8xZ5uiDxM1MQ_BOvjqPw5-7fhsFH1g9Sj8znr9ZG5jOoOlehyB87yYQiv-7IbRT5bXk1KPwZhxlQ-HO2f0XhN939hGE_knsZpB-g-A9sH7J_dvyKRdG_9GsWivtu7TaD8s_931UwE0Wtl_Y8FLUgu9DdhmwXyG_IfFBYIPPzX3Gj6J-84ySK_Cn5QyjyID6y_L6DASjy-x8mo8jzRrij8JN3a6Oq7y9H8c8TQ0kU-VCr3RjmI_NB5iPzo5tcUcx7sz8cxX5QWIP5ADZR91g"
+        },
+        {
+            "query": "f1",
+            "start_timestamp": 1764519000,
+            "end_timestamp": 1764547800,
+            "active": false,
+            "search_volume": 20000,
+            "increase_percentage": 400,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "klasemen f1",
+                "max verstappen",
+                "f1 klasemen",
+                "jadwal f1",
+                "f1 2025",
+                "klasemen f1 2025",
+                "oscar piastri"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=f1&tz=420",
+            "news_page_token": "fnZJunica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRsboxj-LUvMWebpA-VsOyaDwD6r0IPMZPpntgvLP_d-vsglF7fTE5ShqW11bUOWTmFD4Gy6_QlG__PFGFPkjitUo_ECDJRA-AMu9S4w",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=fnZJunica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRsboxj-LUvMWebpA-VsOyaDwD6r0IPMZPpntgvLP_d-vsglF7fTE5ShqW11bUOWTmFD4Gy6_QlG__PFGFPkjitUo_ECDJRA-AMu9S4w"
+        },
+        {
+            "query": "cyrus margono",
+            "start_timestamp": 1764500400,
+            "active": true,
+            "search_volume": 1000,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=cyrus+margono&tz=420",
+            "news_page_token": "6e7JIXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZteTWLUvMWeboAANCUDGk",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=6e7JIXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZteTWLUvMWeboAANCUDGk"
+        },
+        {
+            "query": "si buta dari gua hantu",
+            "start_timestamp": 1764558600,
+            "active": true,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=si+buta+dari+gua+hantu&tz=420",
+            "news_page_token": "sXC5SHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZNbqyLMlMWeboAAMvbC8A",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=sXC5SHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZNbqyLMlMWeboAAMvbC8A"
+        },
+        {
+            "query": "kualifikasi piala asia u17",
+            "start_timestamp": 1764559200,
+            "active": true,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=kualifikasi+piala+asia+u17&tz=420",
+            "news_page_token": "tuXuunica1xTlFpYmlpcEp-SWJI4cfK5_3cXai3KTFnk6QIAuoMNZw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=tuXuunica1xTlFpYmlpcEp-SWJI4cfK5_3cXai3KTFnk6QIAuoMNZw"
+        },
+        {
+            "query": "vecna stranger things",
+            "start_timestamp": 1764553800,
+            "active": true,
+            "search_volume": 500,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "trend_breakdown": [
+                "vecna"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=vecna+stranger+things&tz=420",
+            "news_page_token": "8vfG53ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRkbFHdyLUvMWebpMPvd__c3zUDZYjmGq7RIU_pmsDhT-KdYXyHzGQ289UeRZ9j9DkS86uQKFnyjsjcI_zG2Gwk9XN4LwAYvoREg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=8vfG53ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRkbFHdyLUvMWebpMPvd__c3zUDZYjmGq7RIU_pmsDhT-KdYXyHzGQ289UeRZ9j9DkS86uQKFnyjsjcI_zG2Gwk9XN4LwAYvoREg"
+        },
+        {
+            "query": "edane ecky lamoh",
+            "start_timestamp": 1764542400,
+            "active": true,
+            "search_volume": 500,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "trend_breakdown": [
+                "ecky lamoh edane"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=edane+ecky+lamoh&tz=420",
+            "news_page_token": "BeH0X3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZNx8QXpeYt8nQBANBtDFg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=BeH0X3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZNx8QXpeYt8nQBANBtDFg"
+        },
+        {
+            "query": "tanggal merah 2026",
+            "start_timestamp": 1764562800,
+            "active": true,
+            "search_volume": 2000,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 8,
+                    "name": "Hobbies and Leisure"
+                }
+            ],
+            "trend_breakdown": [
+                "kalender libur nasional 2026",
+                "cuti bersama 2026",
+                "kalender 2026 tanggal merah",
+                "libur nasional 2026",
+                "kalender 2026 lengkap dengan tanggal merah"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=tanggal+merah+2026&tz=420",
+            "news_page_token": "kcBZcnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkb70qxFmSmLPF0mn_t_REYTygbLMXy07IfwAdP2F6Q",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=kcBZcnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkb70qxFmSmLPF0mn_t_REYTygbLMXy07IfwAdP2F6Q"
+        },
+        {
+            "query": "lecce vs torino",
+            "start_timestamp": 1764499800,
+            "end_timestamp": 1764547200,
+            "active": false,
+            "search_volume": 10000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "lecce"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=lecce+vs+torino&tz=420",
+            "news_page_token": "2HKFHnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRobVmxcuyixZ5OkC4TPuS7ZA4R-qMEHhTzfyQuFvstiCzGeoDHsN4QMAEwQoYQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2HKFHnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRobVmxcuyixZ5OkC4TPuS7ZA4R-qMEHhTzfyQuFvstiCzGeoDHsN4QMAEwQoYQ"
+        },
+        {
+            "query": "f1 standings",
+            "start_timestamp": 1764523800,
+            "end_timestamp": 1764550800,
+            "active": false,
+            "search_volume": 5000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "formula 1",
+                "abu dhabi gp",
+                "f1 driver standings"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=f1+standings&tz=420",
+            "news_page_token": "5-mNo3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoZW15ZFqXmLPF0gfMaDKj0o_OjGPyj8I0_rUPjTE5dD-ef-vhK3QJELNFiCzGf4ZLYLwgcAY4w0nQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=5-mNo3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoZW15ZFqXmLPF0gfMaDKj0o_OjGPyj8I0_rUPjTE5dD-ef-vhK3QJELNFiCzGf4ZLYLwgcAY4w0nQ"
+        },
+        {
+            "query": "klasemen liga 1",
+            "start_timestamp": 1764498600,
+            "end_timestamp": 1764515400,
+            "active": false,
+            "search_volume": 20000,
+            "increase_percentage": 300,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "klasemen liga 1 2025",
+                "klasemen bri super league",
+                "statistik liga 1"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=klasemen+liga+1&tz=420",
+            "news_page_token": "yOaC5Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsYTr44vSs1b5OkC5euEn0fmMzwxlESRn7t_Gwp_f385Ct9KswqFn7xbG8U8tR8SED4ABJUzMg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=yOaC5Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsYTr44vSs1b5OkC5euEn0fmMzwxlESRn7t_Gwp_f385Ct9KswqFn7xbG8U8tR8SED4ABJUzMg"
+        },
+        {
+            "query": "eintracht frankfurt vs wolfsburg",
+            "start_timestamp": 1764517200,
+            "end_timestamp": 1764548400,
+            "active": false,
+            "search_volume": 5000,
+            "increase_percentage": 600,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "frankfurt",
+                "eintracht frankfurt",
+                "wolfsburg"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=eintracht+frankfurt+vs+wolfsburg&tz=420",
+            "news_page_token": "o4bjoXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRkavYOVFKamLPF2g_B7ZJBT-IUY7FL6V50ZkPsNbVVsUeUtLDRT529efo8j3GW9A4e-bcw-Fz7NsK4r-FL8EFH6w_jEU9YxLO1H4J-deRFF_6LY6hA8AiapXwg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=o4bjoXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRkavYOVFKamLPF2g_B7ZJBT-IUY7FL6V50ZkPsNbVVsUeUtLDRT529efo8j3GW9A4e-bcw-Fz7NsK4r-FL8EFH6w_jEU9YxLO1H4J-deRFF_6LY6hA8AiapXwg"
+        },
+        {
+            "query": "porto vs estoril",
+            "start_timestamp": 1764532800,
+            "end_timestamp": 1764556800,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 600,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "porto"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=porto+vs+estoril&tz=420",
+            "news_page_token": "xDsc83ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsYVk6wXFZQs8nSB8veHiKLwZ3VdReHXKMkh8xm-PkSVP-anCeEDAASYKJU",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=xDsc83ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsYVk6wXFZQs8nSB8veHiKLwZ3VdReHXKMkh8xm-PkSVP-anCeEDAASYKJU"
+        },
+        {
+            "query": "cruz azul",
+            "start_timestamp": 1764535200,
+            "end_timestamp": 1764562200,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=cruz+azul&tz=420",
+            "news_page_token": "wINvU3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsb5iecXpeYt8nSZfO5_7L9qKBsit0NOH4U_Le4lhA8AscgeZw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=wINvU3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsb5iecXpeYt8nSZfO5_7L9qKBsit0NOH4U_Le4lhA8AscgeZw"
+        },
+        {
+            "query": "sevilla vs real betis",
+            "start_timestamp": 1764512400,
+            "end_timestamp": 1764550800,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 400,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "real betis vs sevilla"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=sevilla+vs+real+betis&tz=420",
+            "news_page_token": "XjboO3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsbZxXmLUvMWebpA-AyrTz5F4f_LV4TwAR2bGDw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=XjboO3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsbZxXmLUvMWebpA-AyrTz5F4f_LV4TwAR2bGDw"
+        },
+        {
+            "query": "cruz azul vs guadalajara",
+            "start_timestamp": 1764550200,
+            "end_timestamp": 1764562200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=cruz+azul+vs+guadalajara&tz=420",
+            "news_page_token": "oNsff3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsYT11UXpRYv8nSB8pt5xaH8c_8PmX2DsAHDpRg_",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=oNsff3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsYT11UXpRYv8nSB8pt5xaH8c_8PmX2DsAHDpRg_"
+        },
+        {
+            "query": "club brugge vs antwerp",
+            "start_timestamp": 1764504000,
+            "end_timestamp": 1764545400,
+            "active": false,
+            "search_volume": 5000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                },
+                {
+                    "id": 6,
+                    "name": "Games"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=club+brugge+vs+antwerp&tz=420",
+            "news_page_token": "-r8kbnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbKqUsWpeYt8nSB8o1U_CB8AL1CESg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=-r8kbnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbKqUsWpeYt8nSB8o1U_CB8AL1CESg"
+        },
+        {
+            "query": "freiburg vs mainz 05",
+            "start_timestamp": 1764525000,
+            "end_timestamp": 1764551400,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 600,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=freiburg+vs+mainz+05&tz=420",
+            "news_page_token": "X_AQs3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsZcK4tFqXmLQoOh_MPtHch8hg_xb1H4T8uOQ_gAtdceXQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=X_AQs3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsZcK4tFqXmLQoOh_MPtHch8hg_xb1H4T8uOQ_gAtdceXQ"
+        },
+        {
+            "query": "arsenal f.c.",
+            "start_timestamp": 1764522600,
+            "end_timestamp": 1764531600,
+            "active": false,
+            "search_volume": 5000,
+            "increase_percentage": 900,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "epl table",
+                "cristhian mosquera",
+                "premier league games",
+                "trevoh chalobah",
+                "reece james",
+                "live sport"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=arsenal+f.c.&tz=420",
+            "news_page_token": "rIuhWnica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGxgPvvyxKzVvk6QLhM_iWL0DmM_JGuKPw9zc3ofCPhhyC8s_9X1O5G0XuoO09uFzqw4Oo-s4UoPBLig-h8Ju6f6K4Sz7tKIr8vvl3UPizOfaj8I-Hn4bZ_fdp0RoUs1Tas1DUQsMgNHjyuX-2yiugbIicqGkCCv9YvSkK_6BKDwr_8MlOFD7UXXB-5pFZyHyGXUkfIXwAqrehCA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=rIuhWnica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGxgPvvyxKzVvk6QLhM_iWL0DmM_JGuKPw9zc3ofCPhhyC8s_9X1O5G0XuoO09uFzqw4Oo-s4UoPBLig-h8Ju6f6K4Sz7tKIr8vvl3UPizOfaj8I-Hn4bZ_fdp0RoUs1Tas1DUQsMgNHjyuX-2yiugbIicqGkCCv9YvSkK_6BKDwr_8MlOFD7UXXB-5pFZyHyGXUkfIXwAqrehCA"
+        },
+        {
+            "query": "as roma vs napoli",
+            "start_timestamp": 1764516000,
+            "end_timestamp": 1764548400,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "napoli vs roma"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=as+roma+vs+napoli&tz=420",
+            "news_page_token": "H31ylHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbCjiOLMksWebpA-UdNZ0H4AMbhEjc",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=H31ylHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbCjiOLMksWebpA-UdNZ0H4AMbhEjc"
+        },
+        {
+            "query": "ajax",
+            "start_timestamp": 1764527400,
+            "end_timestamp": 1764541800,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=ajax&tz=420",
+            "news_page_token": "E--UsXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsbDIpyL8nIWebpA-fWBpch8BoMf0ij8wg1GUP65_yyVqyBsAPTiIew",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=E--UsXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsbDIpyL8nIWebpA-fWBpch8BoMf0ij8wg1GUP65_yyVqyBsAPTiIew"
+        },
+        {
+            "query": "salah",
+            "start_timestamp": 1764548400,
+            "end_timestamp": 1764561600,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "mohamed salah"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=salah&tz=420",
+            "news_page_token": "QmXVIHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRob_fZ8WpeYt8nSB8BkPV6qi8FdsKkHhJ0i5ovB3rApA5jP8ErgE4QMAQj8o7w",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=QmXVIHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRob_fZ8WpeYt8nSB8BkPV6qi8FdsKkHhJ0i5ovB3rApA5jP8ErgE4QMAQj8o7w"
+        },
+        {
+            "query": "hamburger vs vfb",
+            "start_timestamp": 1764510600,
+            "end_timestamp": 1764542400,
+            "active": false,
+            "search_volume": 5000,
+            "increase_percentage": 600,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "stuttgart",
+                "hamburger sv",
+                "vfb stuttgart",
+                "vfb"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=hamburger+vs+vfb&tz=420",
+            "news_page_token": "MwRfeHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRkYrz42LUlIXebpA-AzZzzch8xl7ZFeh8Fvua6Lwj7MdQuEfmP4Thb_e3AWF7xWsjMKX7v4O5Z_7f9uLA85-rGQPYQMA8kZEmg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=MwRfeHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRkYrz42LUlIXebpA-AzZzzch8xl7ZFeh8Fvua6Lwj7MdQuEfmP4Thb_e3AWF7xWsjMKX7v4O5Z_7f9uLA85-rGQPYQMA8kZEmg"
+        },
+        {
+            "query": "premier league standings",
+            "start_timestamp": 1764512400,
+            "end_timestamp": 1764531600,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "premier league table",
+                "english premier league",
+                "riccardo calafiori",
+                "martin \u00f8degaard",
+                "malo gusto"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=premier+league+standings&tz=420",
+            "news_page_token": "aXYIbXica1xTlFpYmlpcEp-SWJJ4h0Fh8nkGBgZGBt_yBYtS8xZ5ukD4jAfef0HhT9T_h8LfscoFhb_52yxkPsOdinso8su3s6PI75V-CuWf-y9eKAFj_7vDm4iiDuqu0GBUd8H5--bfQbHn6MFuFP4RA2sU_kGjIBTz__N2ovr7XDMK_6RfKhrfFYU_m2M_Cv_Qkpswv_x9WrQG7q_IRVfh7ONmpShu-G50E8UMxl42FD5vMwcK388L1Y-H9N-jmPdndigKfz3rcQgfAKOywe4",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=aXYIbXica1xTlFpYmlpcEp-SWJJ4h0Fh8nkGBgZGBt_yBYtS8xZ5ukD4jAfef0HhT9T_h8LfscoFhb_52yxkPsOdinso8su3s6PI75V-CuWf-y9eKAFj_7vDm4iiDuqu0GBUd8H5--bfQbHn6MFuFP4RA2sU_kGjIBTz__N2ovr7XDMK_6RfKhrfFYU_m2M_Cv_Qkpswv_x9WrQG7q_IRVfh7ONmpShu-G50E8UMxl42FD5vMwcK388L1Y-H9N-jmPdndigKfz3rcQgfAKOywe4"
+        },
+        {
+            "query": "piero hincapi\u00e9",
+            "start_timestamp": 1764519000,
+            "end_timestamp": 1764531600,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "mikel merino",
+                "caicedo"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=piero+hincapi%C3%A9&tz=420",
+            "news_page_token": "eaadzXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoYLWW6LUosXebpA-IzrOXRR-DVJn5H5DGsWMKHIM_eko_APmr9G4R9S0kPhH51fB-EDAGoUMn4",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=eaadzXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoYLWW6LUosXebpA-IzrOXRR-DVJn5H5DGsWMKHIM_eko_APmr9G4R9S0kPhH51fB-EDAGoUMn4"
+        },
+        {
+            "query": "aston villa",
+            "start_timestamp": 1764513000,
+            "end_timestamp": 1764522600,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=aston+villa&tz=420",
+            "news_page_token": "Xg3fkHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsZm44hFqXmLPF2g_NRGUWQ-w-_IIBT5ffPvoPB5I9xR-KvuX4DwAcOWJ-I",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Xg3fkHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsZm44hFqXmLPF2g_NRGUWQ-w-_IIBT5ffPvoPB5I9xR-KvuX4DwAcOWJ-I"
+        },
+        {
+            "query": "fortaleza vs atletico mineiro",
+            "start_timestamp": 1764540600,
+            "end_timestamp": 1764552600,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "fortaleza"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=fortaleza+vs+atletico+mineiro&tz=420",
+            "news_page_token": "oWUST3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoblMmmLCkoWebpA-IxHzLtQ-EdzHkD4AASCF8w",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=oWUST3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoblMmmLCkoWebpA-IxHzLtQ-EdzHkD4AASCF8w"
+        },
+        {
+            "query": "buriram utd vs ratchaburi",
+            "start_timestamp": 1764502800,
+            "end_timestamp": 1764518400,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 800,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=buriram+utd+vs+ratchaburi&tz=420",
+            "news_page_token": "hh_kAnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsb9FmWLUvMWeboAAM8LDDY",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=hh_kAnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsb9FmWLUvMWeboAAM8LDDY"
+        },
+        {
+            "query": "azzedine ounahi",
+            "start_timestamp": 1764535800,
+            "end_timestamp": 1764550200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 400,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=azzedine+ounahi&tz=420",
+            "news_page_token": "wZTC1nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsaj3e8XpRUt8nSB8l1lNSB8AMpeEaU",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=wZTC1nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsaj3e8XpRUt8nSB8l1lNSB8AMpeEaU"
+        },
+        {
+            "query": "strasbourg vs brest",
+            "start_timestamp": 1764508800,
+            "end_timestamp": 1764523200,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 700,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=strasbourg+vs+brest&tz=420",
+            "news_page_token": "Ce-I1Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbEtQWLUvMWeboAAM87DEc",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Ce-I1Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbEtQWLUvMWeboAAM87DEc"
+        },
+        {
+            "query": "freiburg",
+            "start_timestamp": 1764520800,
+            "end_timestamp": 1764538200,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "sc freiburg"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=freiburg&tz=420",
+            "news_page_token": "0JAfwnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoanZccXpaQu8nSB8BlL9PRR-Ccfv0fh53LMROEftQ9E5StcROYz-MmqQvgAyFYs7g",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=0JAfwnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoanZccXpaQu8nSB8BlL9PRR-Ccfv0fh53LMROEftQ9E5StcROYz-MmqQvgAyFYs7g"
+        },
+        {
+            "query": "telstar vs feyenoord",
+            "start_timestamp": 1764506400,
+            "end_timestamp": 1764520800,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 600,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=telstar+vs+feyenoord&tz=420",
+            "news_page_token": "TvhKKnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsYELb1FqXmLPF2g_EPfN6PwjVT8IHwA-N0Wow",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=TvhKKnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsYELb1FqXmLPF2g_EPfN6PwjVT8IHwA-N0Wow"
+        },
+        {
+            "query": "qatar gp",
+            "start_timestamp": 1764505200,
+            "end_timestamp": 1764549000,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=qatar+gp&tz=420",
+            "news_page_token": "pLiFSHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkYb6ymL0ooWebpA-RFrPkD4ALfrEds",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=pLiFSHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkYb6ymL0ooWebpA-RFrPkD4ALfrEds"
+        },
+        {
+            "query": "bnpb",
+            "start_timestamp": 1764558000,
+            "end_timestamp": 1764562800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 20,
+                    "name": "Climate"
+                }
+            ],
+            "trend_breakdown": [
+                "apa itu"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=bnpb&tz=420",
+            "news_page_token": "vMZgjHica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGhtR37xal5i3ydIHwGbfPuofMZ7jZz44iv1OwD4U_0QBVvveqLQp_8RU5FP4J3iIU80H2Z6Yg5I_eP4_Czwz9jMLffqkOhb8rJA-Ff9iDAYW_u_8UMp_h9ubNED4ALvdjKg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=vMZgjHica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGhtR37xal5i3ydIHwGbfPuofMZ7jZz44iv1OwD4U_0QBVvveqLQp_8RU5FP4J3iIU80H2Z6Yg5I_eP4_Czwz9jMLffqkOhb8rJA-Ff9iDAYW_u_8UMp_h9ubNED4ALvdjKg"
+        },
+        {
+            "query": "atalanta",
+            "start_timestamp": 1764522000,
+            "end_timestamp": 1764532800,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 1000,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=atalanta&tz=420",
+            "news_page_token": "zAJ_pHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsaNV7YuSs1b5OkC5W86xo3C71F5jcKPvlyJwt-Tr4PMZ7gmcQ5FfvdNKyj_3L9fUakQNgBoFjWb",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=zAJ_pHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsaNV7YuSs1b5OkC5W86xo3C71F5jcKPvlyJwt-Tr4PMZ7gmcQ5FfvdNKyj_3L9fUakQNgBoFjWb"
+        },
+        {
+            "query": "lorient vs nice",
+            "start_timestamp": 1764517200,
+            "end_timestamp": 1764547200,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 300,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=lorient+vs+nice&tz=420",
+            "news_page_token": "Tj9EiHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRobXgR8WpRUt8nQBANTADPk",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Tj9EiHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRobXgR8WpRUt8nQBANTADPk"
+        },
+        {
+            "query": "barcelona vs girona",
+            "start_timestamp": 1764541200,
+            "end_timestamp": 1764550200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "paulo gazzaniga"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=barcelona+vs+girona&tz=420",
+            "news_page_token": "9VMtqHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbMw-cWpeYtCg1G5Xu6AADQBhLh",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=9VMtqHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbMw-cWpeYtCg1G5Xu6AADQBhLh"
+        },
+        {
+            "query": "boca juniors vs argentinos",
+            "start_timestamp": 1764541800,
+            "end_timestamp": 1764549600,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 400,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "boca juniors"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=boca+juniors+vs+argentinos&tz=420",
+            "news_page_token": "Zaxfnnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkaLnO-LUosXebpA-foPPVD41b8eQPgAD9YYMg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Zaxfnnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkaLnO-LUosXebpA-foPPVD41b8eQPgAD9YYMg"
+        },
+        {
+            "query": "trail blazers vs thunder",
+            "start_timestamp": 1764552600,
+            "end_timestamp": 1764558000,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=trail+blazers+vs+thunder&tz=420",
+            "news_page_token": "6kxuQHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoaMygeLUvMWebpA-bnLnFH486-5IvMZNwdcQOGvVbKG8AG6pyKY",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=6kxuQHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoaMygeLUvMWebpA-bnLnFH486-5IvMZNwdcQOGvVbKG8AG6pyKY"
+        },
+        {
+            "query": "isabella viandra",
+            "start_timestamp": 1764537000,
+            "end_timestamp": 1764550800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=isabella+viandra&tz=420",
+            "news_page_token": "sKIpEnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZlaxctSs1b5OkCANMGDL4",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=sKIpEnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZlaxctSs1b5OkCANMGDL4"
+        },
+        {
+            "query": "klasemen barcelona",
+            "start_timestamp": 1764541200,
+            "end_timestamp": 1764549000,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "la liga klasemen",
+                "jadwal la liga",
+                "peringkat laliga",
+                "hasil liga spanyol"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=klasemen+barcelona&tz=420",
+            "news_page_token": "5YNuI3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkYDzmeLUvMWebpA-X6c2ih8kHxmCqo8Mn92cR4Kf82H2RjyyOYt_ZoF4QMAw2UxZQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=5YNuI3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkYDzmeLUvMWebpA-X6c2ih8kHxmCqo8Mn92cR4Kf82H2RjyyOYt_ZoF4QMAw2UxZQ"
+        },
+        {
+            "query": "jo\u00e3o pedro",
+            "start_timestamp": 1764519600,
+            "end_timestamp": 1764529800,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 500,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=jo%C3%A3o+pedro&tz=420",
+            "news_page_token": "Igey2Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbJqZsWFZQs8nQBANDaDIQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Igey2Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbJqZsWFZQs8nQBANDaDIQ"
+        },
+        {
+            "query": "angers vs lens",
+            "start_timestamp": 1764517800,
+            "end_timestamp": 1764532200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=angers+vs+lens&tz=420",
+            "news_page_token": "4wBUsnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkalOK1FqXmLPF2g_PnM7RA-AKkBEKU",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=4wBUsnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkalOK1FqXmLPF2g_PnM7RA-AKkBEKU"
+        },
+        {
+            "query": "porto vs",
+            "start_timestamp": 1764528600,
+            "end_timestamp": 1764544200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=porto+vs&tz=420",
+            "news_page_token": "u3BSvnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbNV-YvSs1b5OkC5WcekYTwAc3dEj4",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=u3BSvnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbNV-YvSs1b5OkC5WcekYTwAc3dEj4"
+        },
+        {
+            "query": "susunan pemain as roma vs napoli",
+            "start_timestamp": 1764550200,
+            "end_timestamp": 1764555600,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "david neres",
+                "klasemen sementara liga italia",
+                "antv live",
+                "napoli vs"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=susunan+pemain+as+roma+vs+napoli&tz=420",
+            "news_page_token": "1VcmdXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsYd_gmLMlMWebpA-VaaVSj8-osmKPweldcofJD-1Dw4n6HrrTkyn_FovgEKH6QfmQ-yD5l_rE8FwgcASaI8zQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=1VcmdXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsYd_gmLMlMWebpA-VaaVSj8-osmKPweldcofJD-1Dw4n6HrrTkyn_FovgEKH6QfmQ-yD5l_rE8FwgcASaI8zQ"
+        },
+        {
+            "query": "jean-philippe mateta",
+            "start_timestamp": 1764505800,
+            "end_timestamp": 1764515400,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 400,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "mateta"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=jean-philippe+mateta&tz=420",
+            "news_page_token": "Puaqznica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRsZ9e-MWpeYt8nSB8h1l3qHwm39Jo_CPWp9C4Qd9ykXh72HrQOHP5tiPwt9Z5orCz18egcLfv1AGmc-whPMRlH_u75RdkyFsAGolStY",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Puaqznica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRsZ9e-MWpeYt8nSB8h1l3qHwm39Jo_CPWp9C4Qd9ykXh72HrQOHP5tiPwt9Z5orCz18egcLfv1AGmc-whPMRlH_u75RdkyFsAGolStY"
+        },
+        {
+            "query": "senne lammens",
+            "start_timestamp": 1764503400,
+            "end_timestamp": 1764514800,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 400,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=senne+lammens&tz=420",
+            "news_page_token": "C3VHJ3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkbeZo5FqXmLQoMhfIa9CT8hfACwZhG1",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=C3VHJ3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkbeZo5FqXmLQoMhfIa9CT8hfACwZhG1"
+        },
+        {
+            "query": "besiktas",
+            "start_timestamp": 1764519000,
+            "end_timestamp": 1764533400,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=besiktas&tz=420",
+            "news_page_token": "6Zstbnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkah5H2LSooWebpA-TUlS1D4WjZ5KPyj7d4QPgCVNBxi",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=6Zstbnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkah5H2LSooWebpA-TUlS1D4WjZ5KPyj7d4QPgCVNBxi"
+        },
+        {
+            "query": "sas",
+            "start_timestamp": 1764546600,
+            "end_timestamp": 1764557400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=sas&tz=420",
+            "news_page_token": "gOgbEXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZjLt8XpeYt8nQBANMxDMo",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=gOgbEXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZjLt8XpeYt8nQBANMxDMo"
+        },
+        {
+            "query": "hibernian vs celtic",
+            "start_timestamp": 1764503400,
+            "end_timestamp": 1764514200,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 300,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=hibernian+vs+celtic&tz=420",
+            "news_page_token": "WCtHE3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRka_9_GLUvMWebrA-O92QPgAxX4SYg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=WCtHE3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRka_9_GLUvMWebrA-O92QPgAxX4SYg"
+        },
+        {
+            "query": "rbtv",
+            "start_timestamp": 1764506400,
+            "end_timestamp": 1764508200,
+            "active": false,
+            "search_volume": 5000,
+            "increase_percentage": 600,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=rbtv&tz=420",
+            "news_page_token": "ZTV8anica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoaoMycXpeYt8nQBANJZDLc",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=ZTV8anica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoaoMycXpeYt8nQBANJZDLc"
+        },
+        {
+            "query": "robert s\u00e1nchez",
+            "start_timestamp": 1764521400,
+            "end_timestamp": 1764531000,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 300,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=robert+s%C3%A1nchez&tz=420",
+            "news_page_token": "3hC-G3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsbNvecXpeYt8nSB8g-8_4LC541wR-EfmnUDwgcA6EYedg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=3hC-G3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsbNvecXpeYt8nSB8g-8_4LC541wR-EfmnUDwgcA6EYedg"
+        },
+        {
+            "query": "madrid vs barcelona",
+            "start_timestamp": 1764539400,
+            "end_timestamp": 1764548400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=madrid+vs+barcelona&tz=420",
+            "news_page_token": "dWSbMHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkYRYb1FqcWLPF2gfIFYHRS-RMcqFL5MORuUf-7vKfYsCBsAngkgDA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=dWSbMHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkYRYb1FqcWLPF2gfIFYHRS-RMcqFL5MORuUf-7vKfYsCBsAngkgDA"
+        },
+        {
+            "query": "scan",
+            "start_timestamp": 1764548400,
+            "end_timestamp": 1764553200,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 7,
+                    "name": "Health"
+                },
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=scan&tz=420",
+            "news_page_token": "WfYst3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoZGz-pFqXmLQoMBzaUMKA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=WfYst3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoZGz-pFqXmLQoMBzaUMKA"
+        },
+        {
+            "query": "f1 live",
+            "start_timestamp": 1764519600,
+            "end_timestamp": 1764527400,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 300,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "f1 standing",
+                "f1 points"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=f1+live&tz=420",
+            "news_page_token": "Tj0iLHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsaDKj2LUvMWebrA-Df_o_CnJy5H5jO0uragqofoDw2GqU9iQuGnr-1G4a9N3YiqHmJ-aDAAeBs5-w",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Tj0iLHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsaDKj2LUvMWebrA-Df_o_CnJy5H5jO0uragqofoDw2GqU9iQuGnr-1G4a9N3YiqHmJ-aDAAeBs5-w"
+        },
+        {
+            "query": "midtjylland vs nordsj\u00e6lland",
+            "start_timestamp": 1764514800,
+            "end_timestamp": 1764525000,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=midtjylland+vs+nordsj%C3%A6lland&tz=420",
+            "news_page_token": "aWHykXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsbjRxYtSs1b5OkC5Rup-KHwD0f1QfgAEMUXVw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=aWHykXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsbjRxYtSs1b5OkC5Rup-KHwD0f1QfgAEMUXVw"
+        },
+        {
+            "query": "viktor gy\u00f6keres",
+            "start_timestamp": 1764522000,
+            "end_timestamp": 1764546000,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=viktor+gy%C3%B6keres&tz=420",
+            "news_page_token": "C-Ae7nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoZLc0QXFZQs8nSB8BkFbsVB-ADARBG-",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=C-Ae7nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoZLc0QXFZQs8nSB8BkFbsVB-ADARBG-"
+        },
+        {
+            "query": "zenit",
+            "start_timestamp": 1764518400,
+            "end_timestamp": 1764529800,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=zenit&tz=420",
+            "news_page_token": "CaDFHHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsb2WecWpeYt8nSB8BmWNV6B8AHNehK7",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=CaDFHHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsb2WecWpeYt8nSB8BmWNV6B8AHNehK7"
+        },
+        {
+            "query": "timberwolves vs spurs",
+            "start_timestamp": 1764551400,
+            "end_timestamp": 1764559200,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=timberwolves+vs+spurs&tz=420",
+            "news_page_token": "EjUdNXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsbFu94tSs1b5OkC4TMYaWYh8xntSjhQ-Efl1CB8AKN2G7Y",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=EjUdNXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsbFu94tSs1b5OkC4TMYaWYh8xntSjhQ-Efl1CB8AKN2G7Y"
+        },
+        {
+            "query": "adrian sutil",
+            "start_timestamp": 1764559800,
+            "end_timestamp": 1764562200,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=adrian+sutil&tz=420",
+            "news_page_token": "Vz5Znnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbpwfMWpeYt8nQBAM-TDFE",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Vz5Znnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbpwfMWpeYt8nQBAM-TDFE"
+        },
+        {
+            "query": "sporting lisbon",
+            "start_timestamp": 1764525600,
+            "end_timestamp": 1764536400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 11,
+                    "name": "Other"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=sporting+lisbon&tz=420",
+            "news_page_token": "7P_KsXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkZnBslFqXmLPF2g_Mwj4Sh8IxU_FP5xzgMofOPd81H43RFsED4AY4IlgA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=7P_KsXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkZnBslFqXmLPF2g_Mwj4Sh8IxU_FP5xzgMofOPd81H43RFsED4AY4IlgA"
+        },
+        {
+            "query": "mart\u00edn zubimendi",
+            "start_timestamp": 1764520200,
+            "end_timestamp": 1764529800,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 300,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=mart%C3%ADn+zubimendi&tz=420",
+            "news_page_token": "0Zp92Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkbFsjWLUvMWhQZD-RsklqDw92YaQfgAAbAXMw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=0Zp92Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkbFsjWLUvMWhQZD-RsklqDw92YaQfgAAbAXMw"
+        },
+        {
+            "query": "epl",
+            "start_timestamp": 1764514200,
+            "end_timestamp": 1764531000,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "cody gakpo"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=epl&tz=420",
+            "news_page_token": "QJyEbnica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGxn3z7yxKzVvk6QLlr9hUgsI_8P4LMp_hP28nivyOVQEofN4IdxT-rDOyKHzbtnUo_GaVhSj8IwbWKHydnEgU_tKvWSjumfvhCIp82JlzKPxD1Y9Q-LM59qPwt_Y-RDEvvfg0lH_u33GzUggbAJwTdKg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=QJyEbnica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGxn3z7yxKzVvk6QLlr9hUgsI_8P4LMp_hP28nivyOVQEofN4IdxT-rDOyKHzbtnUo_GaVhSj8IwbWKHydnEgU_tKvWSjumfvhCIp82JlzKPxD1Y9Q-LM59qPwt_Y-RDEvvfg0lH_u33GzUggbAJwTdKg"
+        },
+        {
+            "query": "yalla shoot",
+            "start_timestamp": 1764522000,
+            "end_timestamp": 1764524400,
+            "active": false,
+            "search_volume": 2000,
+            "increase_percentage": 800,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "yalla shoot live"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=yalla+shoot&tz=420",
+            "news_page_token": "WxehuHica1xTlFpYmlpcEp-SWJI4cfK5_0-eJS1KLFrk6QIAvoIN8Q",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=WxehuHica1xTlFpYmlpcEp-SWJI4cfK5_0-eJS1KLFrk6QIAvoIN8Q"
+        },
+        {
+            "query": "porto fc",
+            "start_timestamp": 1764535800,
+            "end_timestamp": 1764546600,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=porto+fc&tz=420",
+            "news_page_token": "YymJZXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsYj1dGLUvMWebpA-Az_eTshfADDphIA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=YymJZXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsYj1dGLUvMWebpA-Az_eTshfADDphIA"
+        },
+        {
+            "query": "f1 schedule",
+            "start_timestamp": 1764515400,
+            "end_timestamp": 1764529200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=f1+schedule&tz=420",
+            "news_page_token": "QWhhFnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsbpSUyLUvMWhQbD-InLUfh5PAUQPgD4MBaw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=QWhhFnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsbpSUyLUvMWhQbD-InLUfh5PAUQPgD4MBaw"
+        },
+        {
+            "query": "macarthur fc",
+            "start_timestamp": 1764484800,
+            "end_timestamp": 1764496800,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "macarthur fc vs perth glory"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=macarthur+fc&tz=420",
+            "news_page_token": "3v4XtHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbdJ98tSs1b5OkC5c-cxQvhAwDUwhKE",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=3v4XtHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsbdJ98tSs1b5OkC5c-cxQvhAwDUwhKE"
+        },
+        {
+            "query": "cavaliers vs celtics",
+            "start_timestamp": 1764552600,
+            "end_timestamp": 1764556200,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=cavaliers+vs+celtics&tz=420",
+            "news_page_token": "zz3pGHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsa5DPmLUvMWebpA-RzMhij8E7e3ovAPZByA8AF1_hxs",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=zz3pGHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsa5DPmLUvMWebpA-RzMhij8E7e3ovAPZByA8AF1_hxs"
+        },
+        {
+            "query": "bali",
+            "start_timestamp": 1764496200,
+            "end_timestamp": 1764508200,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 11,
+                    "name": "Other"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=bali&tz=420",
+            "news_page_token": "7FmQBnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsa2OL5FqXmLPF0gfAbhjjpkPuOxk84o_BNOVqh8lSgU_tpDJSh86fsXUfhbvhih2PcrLw_CBwCzGjjU",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=7FmQBnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsa2OL5FqXmLPF0gfAbhjjpkPuOxk84o_BNOVqh8lSgU_tpDJSh86fsXUfhbvhih2PcrLw_CBwCzGjjU"
+        },
+        {
+            "query": "alphonse areola",
+            "start_timestamp": 1764513000,
+            "end_timestamp": 1764522000,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=alphonse+areola&tz=420",
+            "news_page_token": "Qef9-3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsYYK_5FqXmLPF2g_BWbSqD8c_-ltt2CsAGuFxf0",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Qef9-3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsYYK_5FqXmLPF2g_BWbSqD8c_-ltt2CsAGuFxf0"
+        },
+        {
+            "query": "lyon vs",
+            "start_timestamp": 1764528000,
+            "end_timestamp": 1764540600,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=lyon+vs&tz=420",
+            "news_page_token": "2faiGHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsYjnIcWpRUt8nSB8BnOOwVB-ADBKBHN",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2faiGHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsYjnIcWpRUt8nSB8BnOOwVB-ADBKBHN"
+        },
+        {
+            "query": "enzo fern\u00e1ndez",
+            "start_timestamp": 1764522000,
+            "end_timestamp": 1764531000,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=enzo+fern%C3%A1ndez&tz=420",
+            "news_page_token": "G3q4jHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsZDEgWLUosXebpMPvd_ZXo-lA2WY7iQ5YbMZ3SPaoDwAZHLHV0",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=G3q4jHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsZDEgWLUosXebpMPvd_ZXo-lA2WY7iQ5YbMZ3SPaoDwAZHLHV0"
+        },
+        {
+            "query": "vara dwikhandini",
+            "start_timestamp": 1764544200,
+            "end_timestamp": 1764550200,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=vara+dwikhandini&tz=420",
+            "news_page_token": "1VpjFXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRobLQS8WpeYt8nQBANOjDNU",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=1VpjFXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRobLQS8WpeYt8nQBANOjDNU"
+        },
+        {
+            "query": "saliba",
+            "start_timestamp": 1764520200,
+            "end_timestamp": 1764528000,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "william saliba"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=saliba&tz=420",
+            "news_page_token": "VRglcXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsb9zU2LUvMWebpA-SqXHiHzGe6FTkaRP_D-Cwp_w9IrKPyUqCUQPgByeSqF",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=VRglcXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsb9zU2LUvMWebpA-SqXHiHzGe6FTkaRP_D-Cwp_w9IrKPyUqCUQPgByeSqF"
+        },
+        {
+            "query": "k league 1",
+            "start_timestamp": 1764479400,
+            "end_timestamp": 1764497400,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=k+league+1&tz=420",
+            "news_page_token": "oTbVKnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsbN_9YuSs1b5OkC5U_4egWFvymCEYW_mVcPhZ_3IQyZz7Bd-D6KfPGWEAgfABP7LoY",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=oTbVKnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsbN_9YuSs1b5OkC5U_4egWFvymCEYW_mVcPhZ_3IQyZz7Bd-D6KfPGWEAgfABP7LoY"
+        },
+        {
+            "query": "dean henderson",
+            "start_timestamp": 1764504600,
+            "end_timestamp": 1764514200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=dean+henderson&tz=420",
+            "news_page_token": "2FooWXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsaNslyLUvMWhQYDAMroC7w",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2FooWXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsaNslyLUvMWhQYDAMroC7w"
+        },
+        {
+            "query": "shea lacey",
+            "start_timestamp": 1764501600,
+            "end_timestamp": 1764511800,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 400,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=shea+lacey&tz=420",
+            "news_page_token": "WAmWZXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkZx9ZOLUvMWeboAAMrgC9A",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=WAmWZXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkZx9ZOLUvMWeboAAMrgC9A"
+        },
+        {
+            "query": "sporting",
+            "start_timestamp": 1764527400,
+            "end_timestamp": 1764536400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=sporting&tz=420",
+            "news_page_token": "RPdSWnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoazs18vKihZ5OkC4TMmXGRB4R_OvIvCX7ewGYW_PCAKhX9I5jqEDwBlICnE",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=RPdSWnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoazs18vKihZ5OkC4TMmXGRB4R_OvIvCX7ewGYW_PCAKhX9I5jqEDwBlICnE"
+        },
+        {
+            "query": "instagram viral videos 19 minutes",
+            "start_timestamp": 1764510000,
+            "end_timestamp": 1764519000,
+            "active": false,
+            "search_volume": 1000,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "trend_breakdown": [
+                "viral videos 19 minutes"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=instagram+viral+videos+19+minutes&tz=420",
+            "news_page_token": "D_aIVnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsa2iz2LUvMWebqg8kODAcw0ErM",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=D_aIVnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsa2iz2LUvMWebqg8kODAcw0ErM"
+        },
+        {
+            "query": "jadwal laliga",
+            "start_timestamp": 1764539400,
+            "end_timestamp": 1764543600,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                },
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "trend_breakdown": [
+                "jadwal epl"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=jadwal+laliga&tz=420",
+            "news_page_token": "G1gBwnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsalX7MWpeYt8nSB8v04tVH4BpzPUPjJu6HyAJSmG9I",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=G1gBwnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsalX7MWpeYt8nSB8v04tVH4BpzPUPjJu6HyAJSmG9I"
+        },
+        {
+            "query": "runner runner",
+            "start_timestamp": 1764519000,
+            "end_timestamp": 1764526200,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 300,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=runner+runner&tz=420",
+            "news_page_token": "hOkke3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsZWO4lFqXmLPF2gfFmmWAgfAKhOECk",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=hOkke3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsZWO4lFqXmLPF2gfFmmWAgfAKhOECk"
+        },
+        {
+            "query": "iman",
+            "start_timestamp": 1764550200,
+            "end_timestamp": 1764553800,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 11,
+                    "name": "Other"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=iman&tz=420",
+            "news_page_token": "SjVbjHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsYTry4uSs1b5OkC5Z-8FoXC33UuAYVvwHkbhb9VLASFP2nhdhT-MaMrED4AOSkvTA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=SjVbjHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsYTry4uSs1b5OkC5Z-8FoXC33UuAYVvwHkbhb9VLASFP2nhdhT-MaMrED4AOSkvTA"
+        },
+        {
+            "query": "lucas paquet\u00e1",
+            "start_timestamp": 1764515400,
+            "end_timestamp": 1764523200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=lucas+paquet%C3%A1&tz=420",
+            "news_page_token": "_e0ZtHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsaDRkGLUvMWebrA-H_-oPD3zb8D5Z_7e37uLBj7_41fXXC2_p3VEDYASFEuNw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=_e0ZtHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsaDRkGLUvMWebrA-H_-oPD3zb8D5Z_7e37uLBj7_41fXXC2_p3VEDYASFEuNw"
+        },
+        {
+            "query": "strasbourg fc",
+            "start_timestamp": 1764511800,
+            "end_timestamp": 1764522000,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=strasbourg+fc&tz=420",
+            "news_page_token": "Wx4GVXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRobjzxsWpeYt8nSB8Bkrf_FA-ADQmxJ-",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Wx4GVXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRobjzxsWpeYt8nSB8Bkrf_FA-ADQmxJ-"
+        },
+        {
+            "query": "jeonbuk vs fc seoul",
+            "start_timestamp": 1764487800,
+            "end_timestamp": 1764499200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 300,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "liga korea"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=jeonbuk+vs+fc+seoul&tz=420",
+            "news_page_token": "_Zv_kHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRobtwvcXpeYtCg2G8Bk3_1uLzIfJe7pA-Zd1_0L4AOW6HsQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=_Zv_kHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRobtwvcXpeYtCg2G8Bk3_1uLzIfJe7pA-Zd1_0L4AOW6HsQ"
+        },
+        {
+            "query": "panathinaikos",
+            "start_timestamp": 1764527400,
+            "end_timestamp": 1764534600,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=panathinaikos&tz=420",
+            "news_page_token": "FtmptHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsZ1P9gWpeYt8nSB8k-8nIXCd2aQhPABGo8XLg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=FtmptHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsZ1P9gWpeYt8nSB8k-8nIXCd2aQhPABGo8XLg"
+        },
+        {
+            "query": "agak laen 2 berapa jam",
+            "start_timestamp": 1764483000,
+            "end_timestamp": 1764505200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "trend_breakdown": [
+                "durasi film agak laen 2",
+                "agak laen menyala panti"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=agak+laen+2+berapa+jam&tz=420",
+            "news_page_token": "1XzahXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgZH1uhFmSmLPF0AyCoLYw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=1XzahXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgZH1uhFmSmLPF0AyCoLYw"
+        },
+        {
+            "query": "florian wirtz",
+            "start_timestamp": 1764514200,
+            "end_timestamp": 1764522000,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=florian+wirtz&tz=420",
+            "news_page_token": "EYUTO3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkYbB7dFKamLPF2g_EN_96Lwt9wMg_LP_T34yxnCBgBWnx7V",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=EYUTO3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkYbB7dFKamLPF2g_EN_96Lwt9wMg_LP_T34yxnCBgBWnx7V"
+        },
+        {
+            "query": "wesley fofana",
+            "start_timestamp": 1764520800,
+            "end_timestamp": 1764527400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=wesley+fofana&tz=420",
+            "news_page_token": "Wt-nVnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsZlerMWpeYt8nSB8g-8_4LCX-Ogi8I_erAbyj_3L3F2AYQNAGhyJI8",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Wt-nVnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsZlerMWpeYt8nSB8g-8_4LCX-Ogi8I_erAbyj_3L3F2AYQNAGhyJI8"
+        },
+        {
+            "query": "guglielmo vicario",
+            "start_timestamp": 1764553200,
+            "end_timestamp": 1764555600,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=guglielmo+vicario&tz=420",
+            "news_page_token": "bcAHKnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsYE-12LMksWeboAAM30DCw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=bcAHKnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsYE-12LMksWeboAAM30DCw"
+        },
+        {
+            "query": "pelni",
+            "start_timestamp": 1764544800,
+            "end_timestamp": 1764549600,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 19,
+                    "name": "Travel and Transportation"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=pelni&tz=420",
+            "news_page_token": "AW0muXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsa1hzwXpeYt8nSB8hNjv6HwozkXo_CzuRxR-BYzAlH4PjqbUfhdegkQPgBi8iuM",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=AW0muXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsa1hzwXpeYt8nSB8hNjv6HwozkXo_CzuRxR-BYzAlH4PjqbUfhdegkQPgBi8iuM"
+        },
+        {
+            "query": "bryan mbeumo",
+            "start_timestamp": 1764504600,
+            "end_timestamp": 1764511200,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=bryan+mbeumo&tz=420",
+            "news_page_token": "3nqAPXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoZMV9ZFqXmLPF0gfMbmX9JQ_rn_39quwdj_IvUmwcV5HgRA2ACg5iTR",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=3nqAPXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoZMV9ZFqXmLPF0gfMbmX9JQ_rn_39quwdj_IvUmwcV5HgRA2ACg5iTR"
+        },
+        {
+            "query": "jadwal borneo",
+            "start_timestamp": 1764498000,
+            "end_timestamp": 1764514800,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=jadwal+borneo&tz=420",
+            "news_page_token": "s-ZFinica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoZ1R24vSs1b5OkC4TPyV2tD-ADMNhHT",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=s-ZFinica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoZ1R24vSs1b5OkC4TPyV2tD-ADMNhHT"
+        },
+        {
+            "query": "union saint-gilloise",
+            "start_timestamp": 1764525000,
+            "end_timestamp": 1764534000,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=union+saint-gilloise&tz=420",
+            "news_page_token": "_ode73ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsZFU84sSs1b5OkC5Rup-EH4AMTDEXg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=_ode73ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsZFU84sSs1b5OkC5Rup-EH4AMTDEXg"
+        },
+        {
+            "query": "fcsb",
+            "start_timestamp": 1764525600,
+            "end_timestamp": 1764531600,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=fcsb&tz=420",
+            "news_page_token": "rI19JHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsaYc9sXFeUv8nSB8BmOFL1C4T-ZkYrMZ8xLXwLhAwDnVh51",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=rI19JHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsaYc9sXFeUv8nSB8BmOFL1C4T-ZkYrMZ8xLXwLhAwDnVh51"
+        },
+        {
+            "query": "eliteserien",
+            "start_timestamp": 1764520200,
+            "end_timestamp": 1764528000,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=eliteserien&tz=420",
+            "news_page_token": "mCChfnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsYky9hFqXmLPF2g_LKuQBR-bfJ0VPnOzSj8Zb-NIHwAelMiMg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=mCChfnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsYky9hFqXmLPF2g_LKuQBR-bfJ0VPnOzSj8Zb-NIHwAelMiMg"
+        },
+        {
+            "query": "liam delap",
+            "start_timestamp": 1764526200,
+            "end_timestamp": 1764530400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 900,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=liam+delap&tz=420",
+            "news_page_token": "TUdS1Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsaVDsqLUvMWebpA-ZsmByLzGXp3dkD55_5pM6jA2H_7__RB2ADGhSO5",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=TUdS1Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsaVDsqLUvMWebpA-ZsmByLzGXp3dkD55_5pM6jA2H_7__RB2ADGhSO5"
+        },
+        {
+            "query": "dewangga",
+            "start_timestamp": 1764504600,
+            "end_timestamp": 1764513000,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=dewangga&tz=420",
+            "news_page_token": "m__GsHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsamu58WpeYt8nSB8nXCz0P4ANDOEnU",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=m__GsHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsamu58WpeYt8nSB8nXCz0P4ANDOEnU"
+        },
+        {
+            "query": "twente",
+            "start_timestamp": 1764520800,
+            "end_timestamp": 1764528600,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=twente&tz=420",
+            "news_page_token": "KClD2Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkaJlccX5eUs8nSB8o_8_YzC75obAOEDACe6GKM",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=KClD2Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkaJlccX5eUs8nSB8o_8_YzC75obAOEDACe6GKM"
+        },
+        {
+            "query": "gabriel jesus",
+            "start_timestamp": 1764522600,
+            "end_timestamp": 1764529800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=gabriel+jesus&tz=420",
+            "news_page_token": "6BKtdHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkaVS48WpeYt8nSB84-h8PumHELh9-ucReHzRrij8GPvbYfyz_1_mrUPWY7hGIcShA8AafU0ng",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=6BKtdHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkaVS48WpeYt8nSB84-h8PumHELh9-ucReHzRrij8GPvbYfyz_1_mrUPWY7hGIcShA8AafU0ng"
+        },
+        {
+            "query": "india vs south africa",
+            "start_timestamp": 1764492000,
+            "end_timestamp": 1764502800,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=india+vs+south+africa&tz=420",
+            "news_page_token": "jWyTKnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsad2w4sSs1b5OkC4TP85v2Jwv_49w-Uf-7_Av5ZMPY_qxPCEDYAUWMmWg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=jWyTKnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsad2w4sSs1b5OkC4TP85v2Jwv_49w-Uf-7_Av5ZMPY_qxPCEDYAUWMmWg"
+        },
+        {
+            "query": "hong kong fire death toll",
+            "start_timestamp": 1764525600,
+            "end_timestamp": 1764539400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 11,
+                    "name": "Other"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=hong+kong+fire+death+toll&tz=420",
+            "news_page_token": "3flHvHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkbvsEWLUvMWeboAAM0bDAw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=3flHvHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkbvsEWLUvMWeboAAM0bDAw"
+        },
+        {
+            "query": "lautaro mart\u00ednez",
+            "start_timestamp": 1764518400,
+            "end_timestamp": 1764546000,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=lautaro+mart%C3%ADnez&tz=420",
+            "news_page_token": "FFD2WXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRobcrlmLUosXebpMPvd_W_VNKBssx3hSMAiF39CQA1crfrsERW7l53UQPgDEgSru",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=FFD2WXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRobcrlmLUosXebpMPvd_W_VNKBssx3hSMAiF39CQA1crfrsERW7l53UQPgDEgSru"
+        },
+        {
+            "query": "isma\u00efla sarr",
+            "start_timestamp": 1764505200,
+            "end_timestamp": 1764513000,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=isma%C3%AFla+sarr&tz=420",
+            "news_page_token": "T6O-i3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsZ9Zr2LUvMWebpA-TvVuqD8c_8WqzlA2ADBExfJ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=T6O-i3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsZ9Zr2LUvMWebpA-TvVuqD8c_8WqzlA2ADBExfJ"
+        },
+        {
+            "query": "pl",
+            "start_timestamp": 1764512400,
+            "end_timestamp": 1764530400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=pl&tz=420",
+            "news_page_token": "U3NRiHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRobM7x8WFeQs8nSB8BmXtK5E4Xf4aSDzGVZt5kaRt-z1QuH3-luhqJ8zkRlF3oSrDso_929n5HQIGwBalDid",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=U3NRiHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRobM7x8WFeQs8nSB8BmXtK5E4Xf4aSDzGVZt5kaRt-z1QuH3-luhqJ8zkRlF3oSrDso_929n5HQIGwBalDid"
+        },
+        {
+            "query": "cinta sepenuh jiwa",
+            "start_timestamp": 1764503400,
+            "end_timestamp": 1764513600,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=cinta+sepenuh+jiwa&tz=420",
+            "news_page_token": "h4wQRHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsZ5qTKLMlMWebpA-Tt3hkP4ALlFEa4",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=h4wQRHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsZ5qTKLMlMWebpA-Tt3hkP4ALlFEa4"
+        },
+        {
+            "query": "atlanta",
+            "start_timestamp": 1764524400,
+            "end_timestamp": 1764531000,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=atlanta&tz=420",
+            "news_page_token": "kpZM8Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsa1vOsXpeYt8nSB8ncFXkXhry9di8I_nG2Owi8pzkCV__0SwgcAHUApaw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=kpZM8Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsa1vOsXpeYt8nSB8ncFXkXhry9di8I_nG2Owi8pzkCV__0SwgcAHUApaw"
+        },
+        {
+            "query": "noni madueke",
+            "start_timestamp": 1764525600,
+            "end_timestamp": 1764530400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=noni+madueke&tz=420",
+            "news_page_token": "jDcWAXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoY7FfcWpeYt8nSB8Bkn6v9D4fNGuKPKT9-Jwj-gMh-Fv7PZFsIHACabKG4",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=jDcWAXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoY7FfcWpeYt8nSB8Bkn6v9D4fNGuKPKT9-Jwj-gMh-Fv7PZFsIHACabKG4"
+        },
+        {
+            "query": "anderlecht",
+            "start_timestamp": 1764526200,
+            "end_timestamp": 1764534600,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                },
+                {
+                    "id": 8,
+                    "name": "Hobbies and Leisure"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=anderlecht&tz=420",
+            "news_page_token": "d3UtZXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsZjx3IXpeYt8nSB8gP_HkThG6n4ofB3u6Wj8LdxPEfhrzT5iMxneCVtgyI_6bY3hA8A2I8zhw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=d3UtZXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsZjx3IXpeYt8nSB8gP_HkThG6n4ofB3u6Wj8LdxPEfhrzT5iMxneCVtgyI_6bY3hA8A2I8zhw"
+        },
+        {
+            "query": "lille vs",
+            "start_timestamp": 1764523800,
+            "end_timestamp": 1764529800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=lille+vs&tz=420",
+            "news_page_token": "XzsyAnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbEM3mLUvMWhQYDANBMDH8",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=XzsyAnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbEM3mLUvMWhQYDANBMDH8"
+        },
+        {
+            "query": "password",
+            "start_timestamp": 1764550800,
+            "end_timestamp": 1764552600,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 11,
+                    "name": "Other"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=password&tz=420",
+            "news_page_token": "XTT0QXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsZmi5pFqXmLQoOh_GkT6lD4cctPoPBXKVYi8xlOyBuh8JfoV0H55_6cKrqLond9aQlM7r-DWAyKnOHqqXB9LheOQdgA5BZHOA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=XTT0QXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsZmi5pFqXmLQoOh_GkT6lD4cctPoPBXKVYi8xlOyBuh8JfoV0H55_6cKrqLond9aQlM7r-DWAyKnOHqqXB9LheOQdgA5BZHOA"
+        },
+        {
+            "query": "pisa",
+            "start_timestamp": 1764513000,
+            "end_timestamp": 1764520200,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=pisa&tz=420",
+            "news_page_token": "1zNeYnica1xTlFpYmlpcEp-SWJI4dfK5_5m_2xZllizydJl8noGBgZHhfvkjZD7jgaYkFH6o0jwU9R22mRA-ABMBJCI",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=1zNeYnica1xTlFpYmlpcEp-SWJI4dfK5_5m_2xZllizydJl8noGBgZHhfvkjZD7jgaYkFH6o0jwU9R22mRA-ABMBJCI"
+        },
+        {
+            "query": "gabriel martinelli",
+            "start_timestamp": 1764523800,
+            "end_timestamp": 1764529800,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=gabriel+martinelli&tz=420",
+            "news_page_token": "kW2B8Hica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsZ1MfKLUvMWebpA-T1z8lH4lnbqKPwD77-g8FUuHYPyz_3bsJQZxv7_NGsfhA0AfBIwGA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=kW2B8Hica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsZ1MfKLUvMWebpA-T1z8lH4lnbqKPwD77-g8FUuHYPyz_3bsJQZxv7_NGsfhA0AfBIwGA"
+        },
+        {
+            "query": "pesawat airbus a320",
+            "start_timestamp": 1764499800,
+            "end_timestamp": 1764509400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 3,
+                    "name": "Business and Finance"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=pesawat+airbus+a320&tz=420",
+            "news_page_token": "cC9DSnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbZezcvSs1b5OkCANOaDNQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=cC9DSnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbZezcvSs1b5OkCANOaDNQ"
+        },
+        {
+            "query": "bonds west ham",
+            "start_timestamp": 1764511200,
+            "end_timestamp": 1764515400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=bonds+west+ham&tz=420",
+            "news_page_token": "T7RN7nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsblYjKLUvMWebpA-fvm30Hh72nfD-EDAASBF-8",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=T7RN7nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsblYjKLUvMWebpA-fvm30Hh72nfD-EDAASBF-8"
+        },
+        {
+            "query": "stuttgart vs",
+            "start_timestamp": 1764517800,
+            "end_timestamp": 1764523200,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=stuttgart+vs&tz=420",
+            "news_page_token": "2OvF9Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRobQayWLUvMWhQYDANBQDII",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2OvF9Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRobQayWLUvMWhQYDANBQDII"
+        },
+        {
+            "query": "1 desember papua",
+            "start_timestamp": 1764526200,
+            "end_timestamp": 1764532800,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=1+desember+papua&tz=420",
+            "news_page_token": "5alyKHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRobDzXsXpeYt8nSB8BkPu3-G8AHPpRLR",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=5alyKHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRobDzXsXpeYt8nSB8BkPu3-G8AHPpRLR"
+        },
+        {
+            "query": "klasemen hasil liga 1",
+            "start_timestamp": 1764510600,
+            "end_timestamp": 1764515400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=klasemen+hasil+liga+1&tz=420",
+            "news_page_token": "9L00oXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkYrzapFmSmLPF2g_BOvjqPw5-7fhsLXCT-Pwvfj1EbhG3A-Q-YzqP2QQJFP3g1VDwCJmjGx",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=9L00oXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkYrzapFmSmLPF2g_BOvjqPw5-7fhsLXCT-Pwvfj1EbhG3A-Q-YzqP2QQJFP3g1VDwCJmjGx"
+        },
+        {
+            "query": "marc cucurella",
+            "start_timestamp": 1764522000,
+            "end_timestamp": 1764526200,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=marc+cucurella&tz=420",
+            "news_page_token": "l7Yi4Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsa5-3ctSs1b5OkC4TNs_s-HzGcsuXsLhX_g_RcU_iTRfhQ-b4Q7hA8Agf4pew",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=l7Yi4Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsa5-3ctSs1b5OkC4TNs_s-HzGcsuXsLhX_g_RcU_iTRfhQ-b4Q7hA8Agf4pew"
+        },
+        {
+            "query": "seorang",
+            "start_timestamp": 1764552600,
+            "end_timestamp": 1764553800,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 11,
+                    "name": "Other"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=seorang&tz=420",
+            "news_page_token": "VWiwBnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoZfe5cuykxZ5OkC4TOemCCCyg8PROHvab-NzGf4xKGMIr_lkAsKf7mCFQp_30FvFP5-7oso_O2SRhA-ADijPnE",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=VWiwBnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoZfe5cuykxZ5OkC4TOemCCCyg8PROHvab-NzGf4xKGMIr_lkAsKf7mCFQp_30FvFP5-7oso_O2SRhA-ADijPnE"
+        },
+        {
+            "query": "az alkmaar",
+            "start_timestamp": 1764521400,
+            "end_timestamp": 1764525600,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=az+alkmaar&tz=420",
+            "news_page_token": "wf8l4nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsa6TfcXpeYt8nSB8g--m4PMZ1DfooIin_nMAoW_7UkQivpvzjEQPgBSSylV",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=wf8l4nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsa6TfcXpeYt8nSB8g--m4PMZ1DfooIin_nMAoW_7UkQivpvzjEQPgBSSylV"
+        },
+        {
+            "query": "antv",
+            "start_timestamp": 1764511800,
+            "end_timestamp": 1764516000,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                },
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=antv&tz=420",
+            "news_page_token": "jcfmT3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsZjfSqLUvMWebpA-Tv8E1D4m5lSUPg9Kq9R-FaaVRA-AIr-IV0",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=jcfmT3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsZjfSqLUvMWebpA-Tv8E1D4m5lSUPg9Kq9R-FaaVRA-AIr-IV0"
+        },
+        {
+            "query": "yalla",
+            "start_timestamp": 1764521400,
+            "end_timestamp": 1764524400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=yalla&tz=420",
+            "news_page_token": "RrRs-Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsbI93sXpeYt8nSB8ldsKkHhN_-ShvABJdcYRg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=RrRs-Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsbI93sXpeYt8nSB8ldsKkHhN_-ShvABJdcYRg"
+        },
+        {
+            "query": "gangwon vs pohang",
+            "start_timestamp": 1764489600,
+            "end_timestamp": 1764497400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "gangwon fc"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=gangwon+vs+pohang&tz=420",
+            "news_page_token": "KdsyXHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbiLSGLUvMWeboAAM9RDEQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=KdsyXHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbiLSGLUvMWeboAAM9RDEQ"
+        },
+        {
+            "query": "olahraga",
+            "start_timestamp": 1764540600,
+            "end_timestamp": 1764541800,
+            "active": false,
+            "search_volume": 500,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 11,
+                    "name": "Other"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=olahraga&tz=420",
+            "news_page_token": "IlBJTHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoaPls2LUvMWebpA-Iz7dJ6j8Fu2cKHwPT9woPBrAzKQ-QyiS9hQ-PuefUFRv38Xqv6tYskQPgD-YjhK",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=IlBJTHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoaPls2LUvMWebpA-Iz7dJ6j8Fu2cKHwPT9woPBrAzKQ-QyiS9hQ-PuefUFRv38Xqv6tYskQPgD-YjhK"
+        },
+        {
+            "query": "lisandro mart\u00ednez",
+            "start_timestamp": 1764510000,
+            "end_timestamp": 1764514800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=lisandro+mart%C3%ADnez&tz=420",
+            "news_page_token": "r1wpIXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsaVn9ctSi1e5OkC4TPkLCyB8AHTEhKm",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=r1wpIXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsaVn9ctSi1e5OkC4TPkLCyB8AHTEhKm"
+        },
+        {
+            "query": "konstantinos mavropanos",
+            "start_timestamp": 1764513600,
+            "end_timestamp": 1764517800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=konstantinos+mavropanos&tz=420",
+            "news_page_token": "rXSe8Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoZ-_T2LUvMWebpA-f95OyF8AL_2Ed8",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=rXSe8Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoZ-_T2LUvMWebpA-f95OyF8AL_2Ed8"
+        },
+        {
+            "query": "persib vs bangkok",
+            "start_timestamp": 1764510600,
+            "end_timestamp": 1764514800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=persib+vs+bangkok&tz=420",
+            "news_page_token": "TCVWxXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbJO04uSs1b5OkCANPEDN0",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=TCVWxXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsbJO04uSs1b5OkCANPEDN0"
+        },
+        {
+            "query": "cctv bandung",
+            "start_timestamp": 1764485400,
+            "end_timestamp": 1764490200,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=cctv+bandung&tz=420",
+            "news_page_token": "fje8nHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkbHs5mLUvMWhQYDAM8RDFs",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=fje8nHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkbHs5mLUvMWhQYDAM8RDFs"
+        },
+        {
+            "query": "point f1",
+            "start_timestamp": 1764526800,
+            "end_timestamp": 1764529200,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "f1 point"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=point+f1&tz=420",
+            "news_page_token": "cYqXA3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsaDN_8vSs1b5OkC46v0QPgA2ZAS3A",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=cYqXA3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsaDN_8vSs1b5OkC46v0QPgA2ZAS3A"
+        },
+        {
+            "query": "basel",
+            "start_timestamp": 1764523800,
+            "end_timestamp": 1764527400,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=basel&tz=420",
+            "news_page_token": "CXusq3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkbdfQsWpaQu8nSB8BnswuYj8xlPyXxH4eu92YrC37vPDkX_zp1vUOX9IlD43R0iED4A2XgzwQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=CXusq3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkbdfQsWpaQu8nSB8BnswuYj8xlPyXxH4eu92YrC37vPDkX_zp1vUOX9IlD43R0iED4A2XgzwQ"
+        },
+        {
+            "query": "benjamin netanyahu",
+            "start_timestamp": 1764550800,
+            "end_timestamp": 1764552000,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                },
+                {
+                    "id": 14,
+                    "name": "Politics"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=benjamin+netanyahu&tz=420",
+            "news_page_token": "TmUttXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsbdN-MXpeYt8nSB8nf1LULhH19yBMo_dzb1_A4Y-79Y7Xs42_ybD4QNACxGLKs",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=TmUttXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsbdN-MXpeYt8nSB8nf1LULhH19yBMo_dzb1_A4Y-79Y7Xs42_ybD4QNACxGLKs"
+        },
+        {
+            "query": "evan ferguson",
+            "start_timestamp": 1764538800,
+            "end_timestamp": 1764541200,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=evan+ferguson&tz=420",
+            "news_page_token": "WsstP3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoaut-aLUvMWeboAANETDHY",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=WsstP3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoaut-aLUvMWeboAANETDHY"
+        },
+        {
+            "query": "mateus fernandes",
+            "start_timestamp": 1764514800,
+            "end_timestamp": 1764518400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=mateus+fernandes&tz=420",
+            "news_page_token": "g0z313ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkaHja2LUvMWhQZD-fvm34HwAcYsErc",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=g0z313ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkaHja2LUvMWhQZD-fvm34HwAcYsErc"
+        },
+        {
+            "query": "dalberto",
+            "start_timestamp": 1764511200,
+            "end_timestamp": 1764515400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=dalberto&tz=420",
+            "news_page_token": "wwEd_Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsYJQcmLUvMWebpA-aFWu5H5DOuO3IbwAQB3F7Y",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=wwEd_Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsYJQcmLUvMWebpA-aFWu5H5DOuO3IbwAQB3F7Y"
+        },
+        {
+            "query": "cooper flagg",
+            "start_timestamp": 1764481200,
+            "end_timestamp": 1764487800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=cooper+flagg&tz=420",
+            "news_page_token": "PPFK5Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsZtVcsXpeYt8nSB8BmuNlpD-ef-X_8_HVmOcVFkCAq_gukNCv9gzF4IHwAyCCpV",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=PPFK5Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsZtVcsXpeYt8nSB8BmuNlpD-ef-X_8_HVmOcVFkCAq_gukNCv9gzF4IHwAyCCpV"
+        },
+        {
+            "query": "marc guehi",
+            "start_timestamp": 1764507600,
+            "end_timestamp": 1764512400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=marc+guehi&tz=420",
+            "news_page_token": "aJ3xQ3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkbOiueLUvMWebpA-a1P4lD4Ta07UfgreE-h8H1NFkP55_7FXAxFlmNo_jkLJvf3imwUhA0Ap4U1cQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=aJ3xQ3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkbOiueLUvMWebpA-a1P4lD4Ta07UfgreE-h8H1NFkP55_7FXAxFlmNo_jkLJvf3imwUhA0Ap4U1cQ"
+        },
+        {
+            "query": "jason gunawan",
+            "start_timestamp": 1764502800,
+            "end_timestamp": 1764507000,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=jason+gunawan&tz=420",
+            "news_page_token": "eX7l3nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsa9XmsWpeYt8nSB8Bk27tuPzGc89qETyj_3f_rGwxA2AIdKIAo",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=eX7l3nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsa9XmsWpeYt8nSB8Bk27tuPzGc89qETyj_3f_rGwxA2AIdKIAo"
+        },
+        {
+            "query": "bein sport",
+            "start_timestamp": 1764519600,
+            "end_timestamp": 1764522600,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=bein+sport&tz=420",
+            "news_page_token": "fch-EXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsayb78XpeYt8nSB8kUr1qDw7YpjkPkMP3VCIHwAxjcdCQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=fch-EXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsayb78XpeYt8nSB8kUr1qDw7YpjkPkMP3VCIHwAxjcdCQ"
+        },
+        {
+            "query": "atlanta vs",
+            "start_timestamp": 1764526800,
+            "end_timestamp": 1764531000,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=atlanta+vs&tz=420",
+            "news_page_token": "pTVj4nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsZFEV8WpeYt8nSB8mXdOFH44i9Oo_B3X9kL4QMAo7IdVA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=pTVj4nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsZFEV8WpeYt8nSB8mXdOFH44i9Oo_B3X9kL4QMAo7IdVA"
+        },
+        {
+            "query": "mu vs cristal",
+            "start_timestamp": 1764511800,
+            "end_timestamp": 1764514800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "trend_breakdown": [
+                "man u"
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=mu+vs+cristal&tz=420",
+            "news_page_token": "KBHaJHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsbZHPsXpeYt8nSB8Bn-sYqh8B_nvEfmMx40skDhH3j_BYW_Lj8DRb_78g8o8k37dqLwofaHBgMAX5g6bg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=KBHaJHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsbZHPsXpeYt8nSB8Bn-sYqh8B_nvEfmMx40skDhH3j_BYW_Lj8DRb_78g8o8k37dqLwofaHBgMAX5g6bg"
+        },
+        {
+            "query": "jadwal sholat depok",
+            "start_timestamp": 1764537000,
+            "end_timestamp": 1764540000,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 8,
+                    "name": "Hobbies and Leisure"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=jadwal+sholat+depok&tz=420",
+            "news_page_token": "4pRJ2Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkZdN9VFqXmLQoMByEkLfA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=4pRJ2Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkZdN9VFqXmLQoMByEkLfA"
+        },
+        {
+            "query": "ben whittaker",
+            "start_timestamp": 1764484200,
+            "end_timestamp": 1764490800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=ben+whittaker&tz=420",
+            "news_page_token": "C0uAh3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkbepr2LUvMWebpA-XsFG1H47h8SIHwA_CsXDQ",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=C0uAh3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkbepr2LUvMWebpA-XsFG1H47h8SIHwA_CsXDQ"
+        },
+        {
+            "query": "krasnodar",
+            "start_timestamp": 1764502800,
+            "end_timestamp": 1764507000,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 11,
+                    "name": "Other"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=krasnodar&tz=420",
+            "news_page_token": "8oUqnnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRobPBuqLUvMWebpA-Ix7Dx9B4S9OnAXhAwAUSxgG",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=8oUqnnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRobPBuqLUvMWebpA-Ix7Dx9B4S9OnAXhAwAUSxgG"
+        },
+        {
+            "query": "harga emas antam di pegadaian",
+            "start_timestamp": 1764489000,
+            "end_timestamp": 1764492600,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 300,
+            "categories": [
+                {
+                    "id": 3,
+                    "name": "Business and Finance"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=harga+emas+antam+di+pegadaian&tz=420",
+            "news_page_token": "VnAvs3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoaO_P-LMlMWeboAANJ1DLg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=VnAvs3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoaO_P-LMlMWeboAANJ1DLg"
+        },
+        {
+            "query": "whatsapp",
+            "start_timestamp": 1764513000,
+            "end_timestamp": 1764515400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 11,
+                    "name": "Other"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=whatsapp&tz=420",
+            "news_page_token": "qmJIc3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgZXgyeLUvMWebpA-IxsPC9Q-Drp6ij8g39-oPCPPd-LKv9XAoXP-T4CVf2HDmQ-wzwPIwgfACUeObc",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=qmJIc3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgZXgyeLUvMWebpA-IxsPC9Q-Drp6ij8g39-oPCPPd-LKv9XAoXP-T4CVf2HDmQ-wzwPIwgfACUeObc"
+        },
+        {
+            "query": "wa",
+            "start_timestamp": 1764513000,
+            "end_timestamp": 1764515400,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=wa&tz=420",
+            "news_page_token": "glF-23ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsaYyg2LUvMWhQZD-ftEI1D4e90Wo_CVix-j8Hd6hqHwu7eZQvnn_hyc9B7G_p9ttBvCBgCB8jYM",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=glF-23ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsaYyg2LUvMWhQZD-ftEI1D4e90Wo_CVix-j8Hd6hqHwu7eZQvnn_hyc9B7G_p9ttBvCBgCB8jYM"
+        },
+        {
+            "query": "jadwal persib bandung",
+            "start_timestamp": 1764512400,
+            "end_timestamp": 1764514800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=jadwal+persib+bandung&tz=420",
+            "news_page_token": "Hcl1QXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkb-au1FmSmLPF2gfJ3w88h8hnVHbkP4AOjGFxw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Hcl1QXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkb-au1FmSmLPF2gfJ3w88h8hnVHbkP4AOjGFxw"
+        },
+        {
+            "query": "machida zelvia vs nagoya",
+            "start_timestamp": 1764480600,
+            "end_timestamp": 1764486000,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=machida+zelvia+vs+nagoya&tz=420",
+            "news_page_token": "Ebkoz3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsYN-z0XpeYt8nQBANGBDIE",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Ebkoz3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsYN-z0XpeYt8nQBANGBDIE"
+        },
+        {
+            "query": "andy diouf",
+            "start_timestamp": 1764520200,
+            "end_timestamp": 1764522000,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=andy+diouf&tz=420",
+            "news_page_token": "Y6FAI3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgbh2AWLUvMWebpA-ZH7rZD5jP7BmhA-AOy0FgY",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Y6FAI3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgbh2AWLUvMWebpA-ZH7rZD5jP7BmhA-AOy0FgY"
+        },
+        {
+            "query": "the forge code roblox",
+            "start_timestamp": 1764478200,
+            "end_timestamp": 1764487800,
+            "active": false,
+            "search_volume": 200,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 6,
+                    "name": "Games"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=the+forge+code+roblox&tz=420",
+            "news_page_token": "mWTJaHica1xTlFpYmlpcEp-SWJI4efK5_8utrBal5i3ydJl8noGBgZFRaPoiFH5oCQOEDwD3NBcG",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=mWTJaHica1xTlFpYmlpcEp-SWJI4efK5_8utrBal5i3ydJl8noGBgZFRaPoiFH5oCQOEDwD3NBcG"
+        },
+        {
+            "query": "villarreal cf",
+            "start_timestamp": 1764515400,
+            "end_timestamp": 1764518400,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=villarreal+cf&tz=420",
+            "news_page_token": "Itwi-3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgbfTO9FqcWLPF0gfMYJCT4o_FnKO1D4Ryb9ROGvT3uAws_9vw2Zz_C1zwLCBwCspS7z",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Itwi-3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgbfTO9FqcWLPF0gfMYJCT4o_FnKO1D4Ryb9ROGvT3uAws_9vw2Zz_C1zwLCBwCspS7z"
+        },
+        {
+            "query": "freddie potts",
+            "start_timestamp": 1764514200,
+            "end_timestamp": 1764516600,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=freddie+potts&tz=420",
+            "news_page_token": "36CxYXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsalCWyLUvMWeboAAMxRC9Q",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=36CxYXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsalCWyLUvMWeboAAMxRC9Q"
+        },
+        {
+            "query": "chris richards",
+            "start_timestamp": 1764505200,
+            "end_timestamp": 1764508200,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=chris+richards&tz=420",
+            "news_page_token": "SThuH3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsaj3l6LUvMWebpA-ctv8aPw95daoPB3rtoP4QMAqVodXA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=SThuH3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsaj3l6LUvMWebpA-ctv8aPw95daoPB3rtoP4QMAqVodXA"
+        },
+        {
+            "query": "paok",
+            "start_timestamp": 1764529200,
+            "end_timestamp": 1764530400,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 200,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=paok&tz=420",
+            "news_page_token": "qzMfMnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsZ694OLUvMWebpA-SdezkbhG6n4ofCdGSRR-GwJ71H4E7Y8ReGv6T-Owj-sz4fCX5XDAOEDAMfQN3o",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=qzMfMnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsZ694OLUvMWebpA-SdezkbhG6n4ofCdGSRR-GwJ71H4E7Y8ReGv6T-Owj-sz4fCX5XDAOEDAMfQN3o"
+        },
+        {
+            "query": "el hadji malick diouf",
+            "start_timestamp": 1764514800,
+            "end_timestamp": 1764516600,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=el+hadji+malick+diouf&tz=420",
+            "news_page_token": "e9ACPHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsYdqwIWpeYtCg0GANF5DJY",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=e9ACPHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsYdqwIWpeYtCg0GANF5DJY"
+        },
+        {
+            "query": "real zaragoza vs legan\u00e9s",
+            "start_timestamp": 1764509400,
+            "end_timestamp": 1764511200,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=real+zaragoza+vs+legan%C3%A9s&tz=420",
+            "news_page_token": "2IBg2Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoZ1uQKLUosXeboAAM1aC_g",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2IBg2Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoZ1uQKLUosXeboAAM1aC_g"
+        },
+        {
+            "query": "anthony joshua",
+            "start_timestamp": 1764489000,
+            "end_timestamp": 1764492000,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                },
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=anthony+joshua&tz=420",
+            "news_page_token": "_5Qe03ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsa8kKZFqXmLPF2g_EThdch8BpcmFij_3P9qZXYIGwAjCRu0",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=_5Qe03ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsa8kKZFqXmLPF2g_EThdch8BpcmFij_3P9qZXYIGwAjCRu0"
+        },
+        {
+            "query": "jadwal film bioskop hari ini",
+            "start_timestamp": 1764481200,
+            "end_timestamp": 1764484800,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=jadwal+film+bioskop+hari+ini&tz=420",
+            "news_page_token": "5k_Hjnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsadn6sWZaYs8nSB8Bkq7ymg8B1ZoyF8ABnlFwU",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=5k_Hjnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsadn6sWZaYs8nSB8Bkq7ymg8B1ZoyF8ABnlFwU"
+        },
+        {
+            "query": "jadwal xxi",
+            "start_timestamp": 1764478200,
+            "end_timestamp": 1764481800,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Entertainment"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=jadwal+xxi&tz=420",
+            "news_page_token": "CrDN3Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsZ5LpcWpeYt8nSB8nd-rkLmMziyRkP4ABlmF1U",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=CrDN3Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsZ5LpcWpeYt8nSB8nd-rkLmMziyRkP4ABlmF1U"
+        },
+        {
+            "query": "berita",
+            "start_timestamp": 1764511800,
+            "end_timestamp": 1764513600,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 7,
+                    "name": "Health"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=berita&tz=420",
+            "news_page_token": "SqJ0CXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsZ9OusWpeYt8nSB8Blu9rMj8xlPTjuDxi9D4VtpVqHwNx0TR-Ev3MwN5Z_7f-69I4rcCd4iCB8ApXM6Iw",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=SqJ0CXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsZ9OusWpeYt8nSB8Blu9rMj8xlPTjuDxi9D4VtpVqHwNx0TR-Ev3MwN5Z_7f-69I4rcCd4iCB8ApXM6Iw"
+        },
+        {
+            "query": "kenaikan gaji pensiunan pns 2025",
+            "start_timestamp": 1764513600,
+            "end_timestamp": 1764514800,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=kenaikan+gaji+pensiunan+pns+2025&tz=420",
+            "news_page_token": "8Zs4EHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkanxTcXZaYs8nSB8Bn-7V8C4QMAy8IS5A",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=8Zs4EHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkanxTcXZaYs8nSB8Bn-7V8C4QMAy8IS5A"
+        },
+        {
+            "query": "tokyo verdy",
+            "start_timestamp": 1764484800,
+            "end_timestamp": 1764487200,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=tokyo+verdy&tz=420",
+            "news_page_token": "XDWNiXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsaMzKpFqXmLPF0AzaAMFA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=XDWNiXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsaMzKpFqXmLPF0AzaAMFA"
+        },
+        {
+            "query": "solo grand mall",
+            "start_timestamp": 1764523800,
+            "end_timestamp": 1764525000,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 75,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Law and Government"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=solo+grand+mall&tz=420",
+            "news_page_token": "6VIdKnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsY97bcXpeYt8nQBANQrDOc",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=6VIdKnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsY97bcXpeYt8nQBANQrDOc"
+        },
+        {
+            "query": "bein",
+            "start_timestamp": 1764521400,
+            "end_timestamp": 1764522600,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=bein&tz=420",
+            "news_page_token": "Tr18F3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoafOiGLUvMWhQZD-IwGmxVR-JmHzyHzGQ7N-4DCr33zDUV92bffKPwD779A-AAp4DHp",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Tr18F3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoafOiGLUvMWhQZD-IwGmxVR-JmHzyHzGQ7N-4DCr33zDUV92bffKPwD779A-AAp4DHp"
+        },
+        {
+            "query": "mudryk",
+            "start_timestamp": 1764478200,
+            "end_timestamp": 1764480000,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 100,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                },
+                {
+                    "id": 7,
+                    "name": "Health"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=mudryk&tz=420",
+            "news_page_token": "YNooTXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZ5IjqLUvMWeboAAMq8C6c",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=YNooTXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsZ5IjqLUvMWeboAAMq8C6c"
+        },
+        {
+            "query": "rio ngumoha",
+            "start_timestamp": 1764514800,
+            "end_timestamp": 1764516000,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=rio+ngumoha&tz=420",
+            "news_page_token": "_SKV-3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsacZKVFqXmLPF2g_A3HQyB8ALVPEY4",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=_SKV-3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsacZKVFqXmLPF2g_A3HQyB8ALVPEY4"
+        },
+        {
+            "query": "kapan puasa 2026",
+            "start_timestamp": 1764497400,
+            "end_timestamp": 1764499200,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 8,
+                    "name": "Hobbies and Leisure"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=kapan+puasa+2026&tz=420",
+            "news_page_token": "anksAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkaVS_cXZaYs8nQBANEzDJg",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=anksAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkaVS_cXZaYs8nQBANEzDJg"
+        },
+        {
+            "query": "persipura jayapura",
+            "start_timestamp": 1764501600,
+            "end_timestamp": 1764502800,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=persipura+jayapura&tz=420",
+            "news_page_token": "fjuhSHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkZV-fBFqXmLPF0AyAALZA",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=fjuhSHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkZV-fBFqXmLPF0AyAALZA"
+        },
+        {
+            "query": "tigres",
+            "start_timestamp": 1764480600,
+            "end_timestamp": 1764481800,
+            "active": false,
+            "search_volume": 100,
+            "increase_percentage": 50,
+            "categories": [
+                {
+                    "id": 17,
+                    "name": "Sports"
+                }
+            ],
+            "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=ID&hl=id&q=tigres&tz=420",
+            "news_page_token": "ELhQwHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoZV61oXpRYv8nSB8BnXe7mi8AMs56Pwp9lcReG72bxF4bveKEPhb939EIV_8Op9CB8Ax0E04Q",
+            "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=ELhQwHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoZV61oXpRYv8nSB8BnXe7mi8AMs56Pwp9lcReG72bxF4bveKEPhb939EIV_8Op9CB8Ax0E04Q"
+        }
+    ]
+}

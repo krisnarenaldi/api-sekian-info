@@ -1,0 +1,296 @@
+================================================================================
+                    SEMBAKO API - CACHING FLOW DIAGRAM
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         CLIENT MAKES REQUEST                            │
+│                    GET /api/sembako                                      │
+└────────────────────────────────┬────────────────────────────────────────┘
+                                 │
+                                 ▼
+                    ┌────────────────────────┐
+                    │  Check Cache File      │
+                    │  sembako_cache.json    │
+                    └────────────┬───────────┘
+                                 │
+                ┌────────────────┴────────────────┐
+                │                                 │
+                ▼                                 ▼
+    ┌───────────────────┐              ┌───────────────────┐
+    │  Cache File       │              │  Cache File       │
+    │  EXISTS           │              │  DOES NOT EXIST   │
+    └─────────┬─────────┘              └─────────┬─────────┘
+              │                                   │
+              ▼                                   │
+    ┌───────────────────┐                        │
+    │ Check Modified    │                        │
+    │ Date              │                        │
+    └─────────┬─────────┘                        │
+              │                                   │
+    ┌─────────┴─────────┐                        │
+    │                   │                        │
+    ▼                   ▼                        ▼
+┌─────────┐      ┌──────────┐          ┌────────────────┐
+│ TODAY   │      │YESTERDAY │          │  NO CACHE      │
+│ (VALID) │      │(INVALID) │          │                │
+└────┬────┘      └────┬─────┘          └────────┬───────┘
+     │                │                          │
+     │                └──────────┬───────────────┘
+     │                           │
+     ▼                           ▼
+┌────────────────────┐   ┌────────────────────────┐
+│  RETURN CACHED     │   │  SCRAPE FRESH DATA     │
+│  DATA              │   │                        │
+│                    │   │  1. Init Selenium      │
+│  • Load JSON       │   │  2. Open website       │
+│  • Add metadata    │   │  3. Wait for table     │
+│  • from_cache:true │   │  4. Parse HTML         │
+│                    │   │  5. Clean data         │
+│  Response: ~50ms   │   │                        │
+└─────────┬──────────┘   │  Response: ~5-10 sec   │
+          │              └────────┬───────────────┘
+          │                       │
+          │                       ▼
+          │              ┌────────────────────────┐
+          │              │  SAVE TO CACHE FILE    │
+          │              │                        │
+          │              │  • Write JSON          │
+          │              │  • Update timestamp    │
+          │              │  • from_cache:false    │
+          │              └────────┬───────────────┘
+          │                       │
+          └───────────────────────┘
+                          │
+                          ▼
+                ┌─────────────────┐
+                │  RETURN RESPONSE│
+                │  TO CLIENT      │
+                └─────────────────┘
+
+
+================================================================================
+                          CACHE LIFECYCLE
+================================================================================
+
+Day 1:
+00:00  ┌────────────────────────────────────────────────────────────┐
+       │ Midnight - Cache becomes invalid (if exists)               │
+       └────────────────────────────────────────────────────────────┘
+
+08:30  ┌────────────────────────────────────────────────────────────┐
+       │ First Request → Cache INVALID → Scrape Fresh Data (8 sec)  │
+       │ Save to cache: sembako_cache.json (modified: 08:30)        │
+       └────────────────────────────────────────────────────────────┘
+
+08:45  ┌────────────────────────────────────────────────────────────┐
+       │ Second Request → Cache VALID → Return Cache (0.05 sec)     │
+       └────────────────────────────────────────────────────────────┘
+
+10:15  ┌────────────────────────────────────────────────────────────┐
+       │ Third Request → Cache VALID → Return Cache (0.04 sec)      │
+       └────────────────────────────────────────────────────────────┘
+
+14:30  ┌────────────────────────────────────────────────────────────┐
+       │ Fourth Request → Cache VALID → Return Cache (0.05 sec)     │
+       └────────────────────────────────────────────────────────────┘
+
+23:59  ┌────────────────────────────────────────────────────────────┐
+       │ Fifth Request → Cache VALID → Return Cache (0.06 sec)      │
+       └────────────────────────────────────────────────────────────┘
+
+Day 2:
+00:00  ┌────────────────────────────────────────────────────────────┐
+       │ Midnight - Cache becomes invalid                           │
+       └────────────────────────────────────────────────────────────┘
+
+09:00  ┌────────────────────────────────────────────────────────────┐
+       │ First Request → Cache INVALID → Scrape Fresh Data (7 sec)  │
+       │ Save to cache: sembako_cache.json (modified: 09:00)        │
+       └────────────────────────────────────────────────────────────┘
+
+...and the cycle continues
+
+
+================================================================================
+                          FORCE REFRESH FLOW
+================================================================================
+
+                    POST /api/sembako/refresh
+                              │
+                              ▼
+                    ┌─────────────────┐
+                    │ IGNORE CACHE    │
+                    │ VALIDITY        │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────────┐
+                    │ ALWAYS SCRAPE       │
+                    │ FRESH DATA          │
+                    │                     │
+                    │ • Init Selenium     │
+                    │ • Open website      │
+                    │ • Parse data        │
+                    │                     │
+                    │ Time: ~5-10 seconds │
+                    └────────┬────────────┘
+                             │
+                             ▼
+                    ┌─────────────────────┐
+                    │ OVERWRITE CACHE     │
+                    │ FILE                │
+                    │                     │
+                    │ • Update timestamp  │
+                    │ • Save new data     │
+                    └────────┬────────────┘
+                             │
+                             ▼
+                    ┌─────────────────────┐
+                    │ RETURN FRESH DATA   │
+                    │ TO CLIENT           │
+                    │                     │
+                    │ force_refreshed:true│
+                    └─────────────────────┘
+
+
+================================================================================
+                          CACHE STATUS CHECK
+================================================================================
+
+                GET /api/sembako/cache-status
+                              │
+                              ▼
+                    ┌─────────────────┐
+                    │ Check File      │
+                    │ Exists?         │
+                    └────────┬────────┘
+                             │
+                ┌────────────┴────────────┐
+                │                         │
+                ▼                         ▼
+        ┌───────────┐            ┌───────────────┐
+        │ YES       │            │ NO            │
+        └─────┬─────┘            └───────┬───────┘
+              │                          │
+              ▼                          ▼
+    ┌──────────────────┐        ┌────────────────┐
+    │ Get File Info:   │        │ Return:        │
+    │ • Size           │        │ • exists:false │
+    │ • Modified date  │        │ • message      │
+    │ • Validity       │        └────────────────┘
+    └────────┬─────────┘
+             │
+             ▼
+    ┌──────────────────┐
+    │ Return Status:   │
+    │ • exists: true   │
+    │ • valid: bool    │
+    │ • last_modified  │
+    │ • file_size      │
+    └──────────────────┘
+
+
+================================================================================
+                        PERFORMANCE COMPARISON
+================================================================================
+
+WITHOUT CACHING:
+┌────────┬────────┬────────┬────────┬────────┐
+│ Req 1  │ Req 2  │ Req 3  │ Req 4  │ Req 5  │
+│ 8.2s   │ 7.5s   │ 8.9s   │ 7.8s   │ 8.1s   │
+└────────┴────────┴────────┴────────┴────────┘
+Average: ~8 seconds per request
+Total for 5 requests: ~40 seconds
+
+WITH CACHING:
+┌────────┬────────┬────────┬────────┬────────┐
+│ Req 1  │ Req 2  │ Req 3  │ Req 4  │ Req 5  │
+│ 8.2s   │ 0.05s  │ 0.04s  │ 0.06s  │ 0.05s  │
+│(scrape)│(cache) │(cache) │(cache) │(cache) │
+└────────┴────────┴────────┴────────┴────────┘
+Average: ~1.7 seconds per request
+Total for 5 requests: ~8.4 seconds
+
+SPEEDUP: 4.76x faster overall (164x for cached requests!)
+
+
+================================================================================
+                            KEY FUNCTIONS
+================================================================================
+
+is_cache_valid()
+├── Check if file exists
+├── Get file modification time
+├── Compare with today's midnight
+└── Return: True/False
+
+load_cache()
+├── Open cache file
+├── Parse JSON
+├── Return data dict
+└── Handle errors
+
+save_cache(data)
+├── Open cache file for writing
+├── Serialize data to JSON
+├── Write to file
+└── Handle errors
+
+scrape_sembako_data()
+├── Initialize Selenium driver
+├── Navigate to website
+├── Wait for content to load
+├── Parse HTML with BeautifulSoup
+├── Extract and clean data
+└── Return formatted response
+
+
+================================================================================
+                          RESPONSE FIELDS
+================================================================================
+
+CACHED RESPONSE:
+{
+  "status": "success",
+  "from_cache": true,              ← Indicates cache hit
+  "cache_date": "2024-11-26 08:30:15",  ← When cache was created
+  "date_info": {...},
+  "data": [...],
+  "total_items": 16
+}
+
+FRESH RESPONSE:
+{
+  "status": "success",
+  "from_cache": false,             ← Indicates fresh scrape
+  "scraped_at": "2024-11-26 14:30:22",  ← When data was scraped
+  "date_info": {...},
+  "data": [...],
+  "total_items": 16
+}
+
+FORCE REFRESHED:
+{
+  "status": "success",
+  "from_cache": false,
+  "scraped_at": "2024-11-26 14:30:22",
+  "force_refreshed": true,         ← Indicates manual refresh
+  "date_info": {...},
+  "data": [...],
+  "total_items": 16
+}
+
+
+================================================================================
+                          BENEFITS SUMMARY
+================================================================================
+
+PERFORMANCE:        100-200x faster for cached requests
+RELIABILITY:        Consistent data throughout the day
+COST:              Reduced bandwidth and CPU usage
+SCALABILITY:       Can handle many more concurrent users
+RESPECTFUL:        Only one scrape per day to source website
+USER EXPERIENCE:   Near-instant response times
+
+
+================================================================================
