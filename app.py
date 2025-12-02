@@ -444,7 +444,7 @@ def get_trend():
     selisih = (now - modification_timestamp) / 60 / 60
 
     if selisih <= 24.00:
-        with open(file_path, "r") as json_file:
+        with open(file_path, "r", encoding="utf-8") as json_file:
             data = json.load(json_file)
 
         # Format the data to return only query, search_volume, and category (limit to 10 items)
@@ -481,7 +481,7 @@ def get_trend():
         result = search.get_dict()
 
         # replace file json with the latest
-        with open(file_path, "w") as json_file:
+        with open(file_path, "w", encoding="utf-8") as json_file:
             json.dump(result, json_file, indent=4)
 
         # Format the data to return only query, search_volume, and category (limit to 10 items)
@@ -978,13 +978,17 @@ def get_cinema_data():
         # Check if cache is valid (less than 6 days old)
         if is_cinema_cache_valid():
             cached_data = load_cinema_cache()
-            if cached_data:
+            if cached_data and "items" in cached_data:
                 cinema_file = pathlib.Path(CINEMA_CACHE_FILE)
-                cached_data["from_cache"] = True
-                cached_data["cache_date"] = datetime.fromtimestamp(
-                    cinema_file.stat().st_mtime
-                ).strftime("%Y-%m-%d %H:%M:%S")
-                return jsonify(cached_data), 200
+                # Add metadata to response
+                response = {
+                    "items": cached_data["items"],
+                    "from_cache": True,
+                    "cache_date": datetime.fromtimestamp(
+                        cinema_file.stat().st_mtime
+                    ).strftime("%Y-%m-%d %H:%M:%S")
+                }
+                return jsonify(response), 200
 
         # Cache is invalid or doesn't exist, scrape new data
         response_data = scrape_cinema_data()
