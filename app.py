@@ -381,13 +381,26 @@ def home():
                 },
                 "/api/cinema": {
                     "method": "GET",
-                    "description": "Get cinema/movie data from tix.id (from cache if valid, otherwise scrapes new data)",
-                    "note": "Cache is valid for 6 days. Data is automatically refreshed every 6 days.",
+                    "description": "Get cinema/movie data from tix.id (always returns cached data if available for fast response)",
+                    "note": "Returns cached data immediately (~50ms). Cache validity info included in response. Use refresh endpoint to update cache.",
                 },
                 "/api/events": {
                     "method": "GET",
-                    "description": "Get events data from tix.id/tix-events (from cache if valid, otherwise scrapes new data)",
-                    "note": "Cache is valid for 5 days. Data is automatically refreshed every 5 days. Returns max 15 events.",
+                    "description": "Get events data from tix.id/tix-events (always returns cached data if available for fast response)",
+                    "note": "Returns cached data immediately (~50ms). Cache validity info included in response. Use refresh endpoint to update cache.",
+                },
+                "/api/google_trend": {
+                    "method": "GET",
+                    "description": "Get Google Trends data (always returns cached data if available for fast response)",
+                    "note": "Returns cached data immediately (~50ms). Cache validity info included in response.",
+                },
+                "/api/cinema/refresh": {
+                    "method": "POST",
+                    "description": "Force refresh the cinema cache by scraping new data",
+                },
+                "/api/events/refresh": {
+                    "method": "POST",
+                    "description": "Force refresh the events cache by scraping new data",
                 },
             },
             "example_usage": {
@@ -396,7 +409,10 @@ def home():
                 "curl_cache_status": "curl http://localhost:5000/api/sembako/cache-status",
                 "curl_flights": "curl http://localhost:5000/api/flights/arrivals",
                 "curl_cinema": "curl http://localhost:5000/api/cinema",
+                "curl_cinema_refresh": "curl -X POST http://localhost:5000/api/cinema/refresh",
                 "curl_events": "curl http://localhost:5000/api/events",
+                "curl_events_refresh": "curl -X POST http://localhost:5000/api/events/refresh",
+                "curl_google_trend": "curl http://localhost:5000/api/google_trend",
                 "browser": "http://localhost:5000/api/sembako",
             },
             "response_format": {
@@ -428,48 +444,57 @@ def health_check():
 
 @app.route("/api/google_trend", methods=["GET"])
 def get_trend():
-    """Get Google Trend data"""
-    # return jsonify({"status": "success", "data": []}), 200
+    """Get Google Trend data - always returns cached data if available for fast response"""
     file_path = "trending_now.json"
 
     my_json_file = pathlib.Path(file_path)
-    now = time.time()
-    modification_timestamp = 0
 
+    # Always try to load from cache first for fast response
     if my_json_file.exists():
-        modification_timestamp = my_json_file.stat().st_mtime
-    else:
-        print(f"{my_json_file} does not exist")
+        try:
+            with open(file_path, "r", encoding="utf-8") as json_file:
+                data = json.load(json_file)
 
-    selisih = (now - modification_timestamp) / 60 / 60
+            # Format the data to return only query, search_volume, and category (limit to 10 items)
+            formatted_trends = []
+            for item in data["trending_searches"][:10]:
+                formatted_item = {
+                    "query": item["query"],
+                    "search_volume": item.get("search_volume", 0),
+                    "category": item["categories"][0]["name"]
+                    if item.get("categories")
+                    else "Unknown",
+                }
+                formatted_trends.append(formatted_item)
 
-    if selisih <= 24.00:
-        with open(file_path, "r", encoding="utf-8") as json_file:
-            data = json.load(json_file)
+            # Calculate cache age
+            modification_timestamp = my_json_file.stat().st_mtime
+            now = time.time()
+            cache_age_hours = (now - modification_timestamp) / 60 / 60
+            is_valid = cache_age_hours <= 24.00
 
-        # Format the data to return only query, search_volume, and category (limit to 10 items)
-        formatted_trends = []
-        for item in data["trending_searches"][:10]:
-            formatted_item = {
-                "query": item["query"],
-                "search_volume": item.get("search_volume", 0),
-                "category": item["categories"][0]["name"]
-                if item.get("categories")
-                else "Unknown",
-            }
-            formatted_trends.append(formatted_item)
-
-        return jsonify({"status": "success", "trending_searches": formatted_trends})
-
-    else:
-        print("ambil trend langsung")
-        serpapi_key = os.environ.get("SERPAPI_KEY")
-        if not serpapi_key:
             return jsonify({
-                "status": "error",
-                "message": "SERPAPI_KEY environment variable not set"
-            }), 500
-        
+                "status": "success",
+                "trending_searches": formatted_trends,
+                "from_cache": True,
+                "cache_valid": is_valid,
+                "cache_age_hours": round(cache_age_hours, 2),
+                "cache_date": datetime.fromtimestamp(modification_timestamp).strftime("%Y-%m-%d %H:%M:%S")
+            })
+        except Exception as e:
+            print(f"Error loading cache: {e}")
+            # Fall through to fetch new data
+
+    # Cache doesn't exist or failed to load, fetch new data
+    print("Fetching fresh trend data from API")
+    serpapi_key = os.environ.get("SERPAPI_KEY")
+    if not serpapi_key:
+        return jsonify({
+            "status": "error",
+            "message": "SERPAPI_KEY environment variable not set"
+        }), 500
+
+    try:
         search = GoogleSearch(
             {
                 "api_key": serpapi_key,
@@ -480,7 +505,7 @@ def get_trend():
         )
         result = search.get_dict()
 
-        # replace file json with the latest
+        # Save to cache file
         with open(file_path, "w", encoding="utf-8") as json_file:
             json.dump(result, json_file, indent=4)
 
@@ -496,7 +521,17 @@ def get_trend():
             }
             formatted_trends.append(formatted_item)
 
-        return jsonify({"status": "success", "trending_searches": formatted_trends})
+        return jsonify({
+            "status": "success",
+            "trending_searches": formatted_trends,
+            "from_cache": False,
+            "scraped_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        })
+    except Exception as e:
+        return jsonify({
+            "status": "error",
+            "message": f"Failed to fetch trend data: {str(e)}"
+        }), 500
 
 
 def get_flight_url_by_time():
@@ -973,24 +1008,26 @@ def save_cinema_cache(data):
 
 @app.route("/api/cinema", methods=["GET"])
 def get_cinema_data():
-    """Get cinema data from tix.id - from cache if valid (< 6 days old), otherwise scrape new data"""
+    """Get cinema data from tix.id - always returns cached data if available for fast response"""
     try:
-        # Check if cache is valid (less than 6 days old)
-        if is_cinema_cache_valid():
+        # Always try to load from cache first for fast response
+        if os.path.exists(CINEMA_CACHE_FILE):
             cached_data = load_cinema_cache()
             if cached_data and "items" in cached_data:
                 cinema_file = pathlib.Path(CINEMA_CACHE_FILE)
+                is_valid = is_cinema_cache_valid()
                 # Add metadata to response
                 response = {
                     "items": cached_data["items"],
                     "from_cache": True,
+                    "cache_valid": is_valid,
                     "cache_date": datetime.fromtimestamp(
                         cinema_file.stat().st_mtime
                     ).strftime("%Y-%m-%d %H:%M:%S")
                 }
                 return jsonify(response), 200
 
-        # Cache is invalid or doesn't exist, scrape new data
+        # Cache doesn't exist, scrape new data
         response_data = scrape_cinema_data()
 
         # If scraping was successful, save to cache
@@ -1140,20 +1177,22 @@ def scrape_events_data():
 
 @app.route("/api/events", methods=["GET"])
 def get_events_data():
-    """Get events data from tix.id - from cache if valid (< 5 days old), otherwise scrape new data"""
+    """Get events data from tix.id - always returns cached data if available for fast response"""
     try:
-        # Check if cache is valid (less than 5 days old)
-        if is_events_cache_valid():
+        # Always try to load from cache first for fast response
+        if os.path.exists(EVENTS_CACHE_FILE):
             cached_data = load_events_cache()
             if cached_data:
                 events_file = pathlib.Path(EVENTS_CACHE_FILE)
+                is_valid = is_events_cache_valid()
                 cached_data["from_cache"] = True
+                cached_data["cache_valid"] = is_valid
                 cached_data["cache_date"] = datetime.fromtimestamp(
                     events_file.stat().st_mtime
                 ).strftime("%Y-%m-%d %H:%M:%S")
                 return jsonify(cached_data), 200
 
-        # Cache is invalid or doesn't exist, scrape new data
+        # Cache doesn't exist, scrape new data
         response_data = scrape_events_data()
 
         # If scraping was successful, save to cache
@@ -1161,6 +1200,52 @@ def get_events_data():
             response_json = response_data[0].get_json()
             response_json["from_cache"] = False
             response_json["scraped_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            save_events_cache(response_json)
+            return jsonify(response_json), 200
+        else:
+            return response_data
+
+    except Exception as e:
+        return jsonify(
+            {"status": "error", "message": f"An error occurred: {str(e)}"}
+        ), 500
+
+
+@app.route("/api/cinema/refresh", methods=["POST"])
+def refresh_cinema_cache():
+    """Force refresh the cinema cache by scraping new data"""
+    try:
+        response_data = scrape_cinema_data()
+
+        # If scraping was successful, save to cache
+        if response_data[1] == 200:  # Check status code
+            response_json = response_data[0].get_json()
+            response_json["from_cache"] = False
+            response_json["scraped_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            response_json["force_refreshed"] = True
+            save_cinema_cache(response_json)
+            return jsonify(response_json), 200
+        else:
+            return response_data
+
+    except Exception as e:
+        return jsonify(
+            {"status": "error", "message": f"An error occurred: {str(e)}"}
+        ), 500
+
+
+@app.route("/api/events/refresh", methods=["POST"])
+def refresh_events_cache():
+    """Force refresh the events cache by scraping new data"""
+    try:
+        response_data = scrape_events_data()
+
+        # If scraping was successful, save to cache
+        if response_data[1] == 200:  # Check status code
+            response_json = response_data[0].get_json()
+            response_json["from_cache"] = False
+            response_json["scraped_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            response_json["force_refreshed"] = True
             save_events_cache(response_json)
             return jsonify(response_json), 200
         else:
