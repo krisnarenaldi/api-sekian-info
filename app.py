@@ -18,6 +18,9 @@ from selenium.webdriver.support.wait import WebDriverWait
 from serpapi import GoogleSearch
 from webdriver_manager.chrome import ChromeDriverManager
 
+from dotenv import load_dotenv
+load_dotenv()
+
 app = Flask(__name__)
 CORS(app)
 
@@ -513,15 +516,32 @@ def get_trend():
             modification_timestamp = my_json_file.stat().st_mtime
             now = time.time()
             cache_age_hours = (now - modification_timestamp) / 60 / 60
-            is_valid = cache_age_hours <= 24.00
+            is_valid = cache_age_hours < 24
 
-            # Trigger background refresh if cache is stale and not already refreshing
+            # Debug logging
+            print(f"DEBUG Google Trends - Cache age: {cache_age_hours:.2f} hours")
+            print(f"DEBUG Google Trends - is_valid: {is_valid} (should be False if >= 24 hours)")
+            print(f"DEBUG Google Trends - _refresh_tasks['google_trend']: {_refresh_tasks['google_trend']}")
+            print(f"DEBUG Google Trends - Condition check: not is_valid={not is_valid}, not _refresh_tasks['google_trend']={not _refresh_tasks['google_trend']}")
+
+            # Trigger background refresh if cache is stale (>= 24 hours) and not already refreshing
             if not is_valid and not _refresh_tasks['google_trend']:
+                print("🔄 Triggering background refresh for Google Trends (cache is stale)...")
+                serpapi_key = os.environ.get("SERPAPI_KEY")
+                if serpapi_key:
+                    print(f"✓ SERPAPI_KEY is set (length: {len(serpapi_key)})")
+                else:
+                    print("❌ WARNING: SERPAPI_KEY is NOT set - background refresh will fail!")
+                
                 _refresh_tasks['google_trend'] = True
                 thread = Thread(target=refresh_google_trend_background)
                 thread.daemon = True
                 thread.start()
-                print("🔄 Triggered background refresh for Google Trends (cache is stale)")
+                print("✅ Background refresh thread started for Google Trends")
+            elif is_valid:
+                print(f"ℹ️ Cache is still valid ({cache_age_hours:.2f} hours old, < 24 hours)")
+            elif _refresh_tasks['google_trend']:
+                print("ℹ️ Background refresh already in progress")
 
             return jsonify({
                 "status": "success",
@@ -1083,10 +1103,15 @@ def refresh_cinema_background():
 def get_cinema_data():
     """Get cinema data from tix.id - returns cached data immediately, triggers background refresh if stale"""
     global _refresh_tasks
+    request_start = time.time()
+
     try:
         # Always try to load from cache first for fast response
         if os.path.exists(CINEMA_CACHE_FILE):
+            cache_load_start = time.time()
             cached_data = load_cinema_cache()
+            cache_load_time = (time.time() - cache_load_start) * 1000
+
             if cached_data and "items" in cached_data:
                 cinema_file = pathlib.Path(CINEMA_CACHE_FILE)
                 is_valid = is_cinema_cache_valid()
@@ -1099,6 +1124,9 @@ def get_cinema_data():
                     thread.start()
                     print("🔄 Triggered background refresh for cinema (cache is stale)")
 
+                total_time = (time.time() - request_start) * 1000
+                print(f"⚡ Cinema API: Returned cached data in {total_time:.2f}ms (cache load: {cache_load_time:.2f}ms)")
+
                 # Add metadata to response
                 response = {
                     "items": cached_data["items"],
@@ -1107,25 +1135,32 @@ def get_cinema_data():
                     "cache_date": datetime.fromtimestamp(
                         cinema_file.stat().st_mtime
                     ).strftime("%Y-%m-%d %H:%M:%S"),
-                    "refreshing_in_background": _refresh_tasks['cinema']
+                    "refreshing_in_background": _refresh_tasks['cinema'],
+                    "server_response_time_ms": round(total_time, 2)
                 }
                 return jsonify(response), 200
 
         # Cache doesn't exist, scrape new data synchronously
-        print("No cinema cache found, scraping synchronously...")
+        print("⚠️  No cinema cache found, scraping synchronously...")
+        scrape_start = time.time()
         response_data = scrape_cinema_data()
+        scrape_time = (time.time() - scrape_start) * 1000
+        print(f"⏱️  Scraping took {scrape_time:.2f}ms")
 
         # If scraping was successful, save to cache
         if response_data[1] == 200:  # Check status code
             response_json = response_data[0].get_json()
             response_json["from_cache"] = False
             response_json["scraped_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            response_json["server_response_time_ms"] = round((time.time() - request_start) * 1000, 2)
             save_cinema_cache(response_json)
             return jsonify(response_json), 200
         else:
             return response_data
 
     except Exception as e:
+        total_time = (time.time() - request_start) * 1000
+        print(f"❌ Cinema API error after {total_time:.2f}ms: {str(e)}")
         return jsonify(
             {"status": "error", "message": f"An error occurred: {str(e)}"}
         ), 500
@@ -1286,10 +1321,15 @@ def scrape_events_data():
 def get_events_data():
     """Get events data from tix.id - returns cached data immediately, triggers background refresh if stale"""
     global _refresh_tasks
+    request_start = time.time()
+
     try:
         # Always try to load from cache first for fast response
         if os.path.exists(EVENTS_CACHE_FILE):
+            cache_load_start = time.time()
             cached_data = load_events_cache()
+            cache_load_time = (time.time() - cache_load_start) * 1000
+
             if cached_data:
                 events_file = pathlib.Path(EVENTS_CACHE_FILE)
                 is_valid = is_events_cache_valid()
@@ -1302,29 +1342,39 @@ def get_events_data():
                     thread.start()
                     print("🔄 Triggered background refresh for events (cache is stale)")
 
+                total_time = (time.time() - request_start) * 1000
+                print(f"⚡ Events API: Returned cached data in {total_time:.2f}ms (cache load: {cache_load_time:.2f}ms)")
+
                 cached_data["from_cache"] = True
                 cached_data["cache_valid"] = is_valid
                 cached_data["cache_date"] = datetime.fromtimestamp(
                     events_file.stat().st_mtime
                 ).strftime("%Y-%m-%d %H:%M:%S")
                 cached_data["refreshing_in_background"] = _refresh_tasks['events']
+                cached_data["server_response_time_ms"] = round(total_time, 2)
                 return jsonify(cached_data), 200
 
         # Cache doesn't exist, scrape new data synchronously
-        print("No events cache found, scraping synchronously...")
+        print("⚠️  No events cache found, scraping synchronously...")
+        scrape_start = time.time()
         response_data = scrape_events_data()
+        scrape_time = (time.time() - scrape_start) * 1000
+        print(f"⏱️  Scraping took {scrape_time:.2f}ms")
 
         # If scraping was successful, save to cache
         if response_data[1] == 200:  # Check status code
             response_json = response_data[0].get_json()
             response_json["from_cache"] = False
             response_json["scraped_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            response_json["server_response_time_ms"] = round((time.time() - request_start) * 1000, 2)
             save_events_cache(response_json)
             return jsonify(response_json), 200
         else:
             return response_data
 
     except Exception as e:
+        total_time = (time.time() - request_start) * 1000
+        print(f"❌ Events API error after {total_time:.2f}ms: {str(e)}")
         return jsonify(
             {"status": "error", "message": f"An error occurred: {str(e)}"}
         ), 500
